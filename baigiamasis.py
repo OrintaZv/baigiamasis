@@ -244,6 +244,16 @@ dfbendrasbaltic.to_csv('Bendrasbaltic.csv', index=False)
 
 dfbendras = pd.concat([dfbendrasbaltic, dfbendraspanorama], axis=0)
 dfbendras.to_csv('Bendraskeloniu.csv', index=False)
-print(dfbendras)
+#print(dfbendras)
 
 
+
+import seaborn as sns
+import matplotlib.pyplot as plt
+import pandas as pd
+
+Vid.kaina pagal salis
+plt.figure(figsize=(12, 6))
+sns.barplot(x='Salis', y='Kaina', data=baltic_df_pasirinktos_salys)
+plt.title('Vidutine kaina pagal salis (Bendraskelioniu)')
+plt.show()
