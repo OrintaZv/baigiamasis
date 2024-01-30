@@ -1,36 +1,1120 @@
-Salis,Regionas,Trukme,Kaina,Kaina be Akcijos,reitingas,agentura,Data
-Mombasa,Kenija,7,1099,1780,,Baltictours,
-Watamu pakrantė,Kenija,7,1099,1679,,Baltictours,
-Kenija,"Šiaurinė pakrantė, Malindi",7,1129,1880,,Baltictours,
-Galė,Šri Lanka,10,1681,1681,,Baltictours,
-Puketas,Tailandas,14,2797,3200,,Baltictours,
-Puketas,Tailandas,10,2700,3000,,Baltictours,
-Zanzibaras,Tanzanija,11,1429,1429,,Baltictours,
-Hikaduva,Šri Lanka,10,1165,1165,,Baltictours,
-Mombasa,Kenija,7,1499,1870,,Baltictours,
-Kalutara,Šri Lanka,9,1119,1119,,Baltictours,
-Puketas,Tailandas,10,2212,2400,,Baltictours,
-Koggala,Šri Lanka,9,1165,1165,,Baltictours,
-Agadyras,Marokas,7,1159,1159,,Baltictours,
-Poste Lafayette,Šiaurės Mauricijus,8,2009,2009,,Baltictours,
-Puketas,Tailandas,14,1789,1789,,Baltictours,
-Krabi,Tailandas,14,2029,2029,,Baltictours,
-Ahungalla,Šri Lanka,10,1875,1875,,Baltictours,
-Trou D'eau Douce,Mauricijus,11,2479,2479,,Baltictours,
-Pataja,Tailandas,13,1865,1865,,Baltictours,
-Zanzibaras,Tanzanija,11,1499,1499,,Baltictours,
-Pataja,Tailandas,13,1989,1989,,Baltictours,
-Puketas,Tailandas,14,2525,2525,,Baltictours,
-Punta Kana,Dominikos Respublika,12,2625,2625,,Baltictours,
-Trou aux Biches,Šiaurės Mauricijus,11,2439,2439,,Baltictours,
-Varaderas,Kuba,13,2015,2015,,Baltictours,
-Indonezija,Denpasaras,13,1665,,,Kelioniu panorama,2024-02-19
-Indonezija,Denpasaras,12,1635,,,Kelioniu panorama,2024-02-05
-Maldyvai,Pietinis Ari atolas,15,1625,,,Kelioniu panorama,2024-01-29
-Maldyvai,Pietinis Ari atolas,10,1613,,,Kelioniu panorama,2024-01-29
-Šri Lanka,.,11,1544,,,Kelioniu panorama,2024-03-14
-Vietnamas,Ho Chi Minis,12,1435,,,Kelioniu panorama,2024-03-17
-Tailandas,Bankokas,13,1429,,,Kelioniu panorama,2024-03-05
-Tailandas,Pataja,13,1375,,,Kelioniu panorama,2024-03-05
-Šri Lanka,.,10,1344,,,Kelioniu panorama,2024-02-28
-Šri Lanka,.,11,1284,,,Kelioniu panorama,2024-03-14
+Salis,Regionas,Trukme,Kaina,Data,Reitingas,agentura,Keliones tipas
+Egiptas,Hurgada,7,1385,2024-03-23,5,Baltictours,pazintine
+Žemieji Tatrai,Slovakija,4,429,2024-02-14,,Baltictours,pazintine
+Laplandija,+ Ekskursijos Helsinkyje,4,559,2024-02-14,,Baltictours,pazintine
+Italija,"Sorento, Kapri Sala ir kt.",3,699,2024-04-20,3,Baltictours,pazintine
+Venecija,Italija,4,489,2024-02-07,,Baltictours,pazintine
+Marokas,"Agadyras, Rabatas ir kt.",11,1689,2024-03-12,3,Baltictours,pazintine
+Bilundas,Danija,2,579,2024-02-11,3,Baltictours,pazintine
+Italija,Venecija,3,729,2024-06-15,3,Baltictours,pazintine
+Beruwela,Šri Lanka,10,1529,2024-03-09,5,Baltictours,egzotine
+Pataja,Tailandas,13,1545,2024-03-05,3,Baltictours,egzotine
+Beruwela,Šri Lanka,10,1545,2024-04-04,5,Baltictours,egzotine
+Puketas,Tailandas,14,1725,2024-03-01,3,Baltictours,egzotine
+Balio sala,Indonezija,13,1859,2024-03-18,4,Baltictours,egzotine
+Pataja,Tailandas,13,1829,2024-03-12,4,Baltictours,egzotine
+Galė,Šri Lanka,10,1681,2024-03-20,5,Baltictours,egzotine
+Puketas,Tailandas,14,2797,2024-02-02,3,Baltictours,egzotine
+Puketas,Tailandas,10,1,2024-02-05,3,Baltictours,egzotine
+Zanzibaras,Tanzanija,11,1429,2024-03-16,4,Baltictours,egzotine
+Hikaduva,Šri Lanka,10,1165,2024-02-07,3,Baltictours,egzotine
+Kalutara,Šri Lanka,9,1137,2024-02-28,4,Baltictours,egzotine
+Puketas,Tailandas,10,2212,2024-02-03,3,Baltictours,egzotine
+Koggala,Šri Lanka,9,1165,2024-02-28,4,Baltictours,egzotine
+Agadyras,Marokas,7,1159,2024-03-09,4,Baltictours,egzotine
+Poste Lafayette,Šiaurės Mauricijus,8,2009,2024-03-13,4,Baltictours,egzotine
+Puketas,Tailandas,14,1789,2024-03-29,4,Baltictours,egzotine
+Krabi,Tailandas,14,2029,2024-03-29,4,Baltictours,egzotine
+Ahungalla,Šri Lanka,10,1875,2024-04-04,5,Baltictours,egzotine
+Trou D'eau Douce,Mauricijus,11,2479,2024-03-17,3,Baltictours,egzotine
+Pataja,Tailandas,13,1865,2024-02-27,5,Baltictours,egzotine
+Zanzibaras,Tanzanija,11,1499,2024-04-06,3,Baltictours,egzotine
+Pataja,Tailandas,13,1989,2024-02-27,4,Baltictours,egzotine
+Puketas,Tailandas,14,2525,2024-04-12,4,Baltictours,egzotine
+Punta Kana,Dominikos Respublika,12,2625,2024-03-10,5,Baltictours,egzotine
+Trou aux Biches,Šiaurės Mauricijus,11,2439,2024-03-31,3,Baltictours,egzotine
+Varaderas,Kuba,13,2015,2024-02-18,4,Baltictours,egzotine
+Pataja,Tailandas,13,1745,2024-02-27,4,Baltictours,egzotine
+Varaderas,Kuba,13,2025,2024-03-17,3,Baltictours,egzotine
+Zanzibaras,Tanzanija,11,1655,2024-04-06,4,Baltictours,egzotine
+Pataja,Tailandas,13,2005,2024-03-05,4,Baltictours,egzotine
+Varaderas,Kuba,13,2089,2024-03-17,3,Baltictours,egzotine
+Puketas,Tailandas,14,1709,2024-03-29,3,Baltictours,egzotine
+Grand Bė,Mauricijus,11,1899,2024-03-17,3,Baltictours,egzotine
+Bel Maras,Mauricijus,10,2339,2024-02-18,4,Baltictours,egzotine
+Kolombas,Šri Lanka,12,2069,2024-03-25,4,Baltictours,egzotine
+Bel Maras,Mauricijus,11,2219,2024-03-17,4,Baltictours,egzotine
+Mon Šuazi,Mauricijus,11,2035,2024-03-17,3,Baltictours,egzotine
+Kolombas,Šri Lanka,13,1805,2024-03-06,4,Baltictours,egzotine
+Mahė sala,Seišeliai,10,1575,2024-02-23,2,Baltictours,egzotine
+Varaderas,Kuba,13,2175,2024-02-18,5,Baltictours,egzotine
+Mahė sala,Seišeliai,10,2429,2024-02-09,4,Baltictours,egzotine
+Hikaduva,Šri Lanka,12,1729,2024-02-12,3,Baltictours,egzotine
+Flik an Flak,Mauricijus,10,2349,2024-03-18,4,Baltictours,egzotine
+Flik an Flak,Mauricijus,10,2875,2024-02-18,5,Baltictours,egzotine
+Mahė sala,Seišeliai,10,2349,2024-02-23,4,Baltictours,egzotine
+Bel Maras,Mauricijus,10,2449,2024-02-18,4,Baltictours,egzotine
+Mauricijus,Afrika,11,2259,2024-03-17,3,Baltictours,egzotine
+Kemeras,Turkija,7,570,2024-04-10,4,Baltictours,poilsine
+Roma,Italija,3,456,2024-02-08,4,Baltictours,poilsine
+Šarm Aš Šeichas,Egiptas,7,558,2024-02-07,5,Baltictours,poilsine
+Alanija,Turkija,7,795,2024-04-18,5,Baltictours,poilsine
+Enfida,Tunisas,7,650,2024-05-03,4,Baltictours,poilsine
+Hurgada,Egiptas,7,732,2024-02-24,4,Baltictours,poilsine
+Susas,Tunisas,7,629,2024-04-23,5,Baltictours,poilsine
+Kosta Dorada,Ispanija,7,642,2024-05-17,4,Baltictours,poilsine
+St. Julian's,Malta,3,549,2024-03-08,4,Baltictours,poilsine
+Sidė,Turkija,7,626,2024-04-05,5,Baltictours,poilsine
+Hurgada,Egiptas,7,595,2024-02-03,4,Baltictours,poilsine
+Alanija,Turkija,7,759,2024-05-02,5,Baltictours,poilsine
+Hurgada,Egiptas,7,698,2024-02-06,5,Baltictours,poilsine
+Hamametas,Tunisas,7,636,2024-05-03,5,Baltictours,poilsine
+St. Julian's,Malta,7,493,2024-02-03,4,Baltictours,poilsine
+Šarm El Šeichas,Egiptas,7,635,2024-02-07,5,Baltictours,poilsine
+Evija,Graikija,7,579,2024-06-10,3,Baltictours,poilsine
+Saulėtasis Krantas,Bulgarija,7,659,2024-06-03,4,Baltictours,poilsine
+Hurgada,Egiptas,7,684,2024-02-08,4,Baltictours,poilsine
+Chamametas,Tunisas,7,696,2024-05-10,5,Baltictours,poilsine
+Londonas,Jungtinė Karalystė,3,450,2024-03-08,4,Baltictours,poilsine
+Evija,Graikija,7,789,2024-06-03,4,Baltictours,poilsine
+Alanija,Turkija,7,769,2024-04-18,5,Baltictours,poilsine
+Larnaka,Kipras,3,369,2024-02-23,4,Baltictours,poilsine
+Roma,Italija,3,616,2024-03-09,4,Baltictours,poilsine
+Enfida,Tunisas,7,799,2024-05-03,5,Baltictours,poilsine
+Hurgada,Egiptas,7,831,2024-03-05,4,Baltictours,poilsine
+Kreta,Graikija,7,790,2024-04-27,4,Baltictours,poilsine
+Kemeras,Turkija,7,688,2024-04-11,5,Baltictours,poilsine
+Rodo sala,Graikija,7,649,2024-05-04,4,Baltictours,poilsine
+Beruwela,Šri Lanka,10,1529,2024-03-09,5,Baltictours,poilsine
+Alanija,Turkija,7,456,2024-04-05,5,Baltictours,poilsine
+Pafosas,Kipras,7,534,2024-03-01,4,Baltictours,poilsine
+Pafosas,Kipras,7,506,2024-02-02,5,Baltictours,poilsine
+Mahdija,Tunisas,7,514,2024-05-02,4,Baltictours,poilsine
+Šarm Aš Šeichas,Egiptas,7,703,2024-02-07,5,Baltictours,poilsine
+Antalija,Turkija,7,777,2024-04-16,5,Baltictours,poilsine
+Sidė,Turkija,7,778,2024-04-08,5,Baltictours,poilsine
+Sidė,Turkija,7,611,2024-04-05,5,Baltictours,poilsine
+Hurgada,Egiptas,7,583,2024-02-08,4,Baltictours,poilsine
+Kreta,Graikija,7,744,2024-06-15,4,Baltictours,poilsine
+Hurgada,Egiptas,7,690,2024-03-03,5,Baltictours,poilsine
+Kemeras,Turkija,7,593,2024-04-15,4,Baltictours,poilsine
+Londonas,Jungtinė Karalystė,2,408,2024-03-30,4,Baltictours,poilsine
+Enfida,Tunisas,7,576,2024-04-26,4,Baltictours,poilsine
+Kosta Del Sol,Ispanija,7,746,2024-02-12,4,Baltictours,poilsine
+Marsa Alamas,Egiptas,7,499,2024-02-10,4,Baltictours,poilsine
+Alanija,Turkija,7,570,2024-04-07,5,Baltictours,poilsine
+Pataja,Tailandas,13,1545,2024-03-05,3,Baltictours,poilsine
+Alanija,Turkija,7,594,2024-04-05,5,Baltictours,poilsine
+Madeira,Portugalija,7,729,2024-03-12,4,Baltictours,poilsine
+Beruwela,Šri Lanka,10,1545,2024-04-04,5,Baltictours,poilsine
+Kreta,Graikija,7,655,2024-05-04,4,Baltictours,poilsine
+Didimas,Turkija,6,703,2024-10-11,5,Baltictours,poilsine
+Kreta,Graikija,7,639,2024-06-01,4,Baltictours,poilsine
+Kreta,Graikija,7,712,2024-05-04,4,Baltictours,poilsine
+Alanija,Turkija,7,675,2024-04-09,5,Baltictours,poilsine
+Šarm Aš Šeichas,Egiptas,7,659,2024-02-25,4,Baltictours,poilsine
+Marsa Alamas,Egiptas,7,689,2024-02-24,5,Baltictours,poilsine
+Marsa Alamas,Egiptas,7,699,2024-02-10,5,Baltictours,poilsine
+Makadi Bėjus,Egiptas,7,749,2024-02-06,5,Baltictours,poilsine
+Val Rendena,Italija,7,675,2024-03-09,3,Baltictours,poilsine
+Zakintas,Graikija,7,1179,2024-06-11,5,Baltictours,poilsine
+Puketas,Tailandas,14,1725,2024-03-01,3,Baltictours,poilsine
+Golemas,Albanija,7,629,2024-06-01,5,Baltictours,poilsine
+Marsa Alamas,Egiptas,7,787,2024-02-01,5,Baltictours,poilsine
+Taso sala,Graikija,7,829,2024-06-02,5,Baltictours,poilsine
+Sidė,Turkija,7,674,2024-04-08,4,Baltictours,poilsine
+Marsa Alamas,Egiptas,7,719,2024-02-24,5,Baltictours,poilsine
+Alanija,Turkija,7,624,2024-04-05,5,Baltictours,poilsine
+Madeira,Portugalija,7,839,2024-03-19,3,Baltictours,poilsine
+Alanija,Turkija,7,516,2024-04-05,4,Baltictours,poilsine
+Monastyras,Tunisas,7,616,2024-04-26,4,Baltictours,poilsine
+Tenerifė,Ispanija,7,1477,2024-03-15,3,Baltictours,poilsine
+Taso sala,Graikija,7,709,2024-05-26,4,Baltictours,poilsine
+Balio sala,Indonezija,13,1859,2024-03-18,4,Baltictours,poilsine
+Tivatas,Juodkalnija,7,789,2024-06-20,4,Baltictours,poilsine
+Madeira,Portugalija,7,934,2024-09-02,4,Baltictours,poilsine
+Monastyras,Tunisas,7,515,2024-04-23,4,Baltictours,poilsine
+Kreta,Graikija,7,971,2024-06-01,5,Baltictours,poilsine
+Hurgada,Egiptas,7,883,2024-02-10,5,Baltictours,poilsine
+Hurgada,Egiptas,7,680,2024-02-24,5,Baltictours,poilsine
+Soma Bėjus,Egiptas,7,668,2024-01-31,4,Baltictours,poilsine
+Sidė,Turkija,7,894,2024-04-12,5,Baltictours,poilsine
+Duresis,Albanija,7,689,2024-06-06,4,Baltictours,poilsine
+Saulėtas krantas,Bulgarija,7,522,2024-06-13,4,Baltictours,poilsine
+Aja Napa,Kipras,4,510,2024-02-12,4,Baltictours,poilsine
+Hurgada,Egiptas,7,845,2024-02-24,5,Baltictours,poilsine
+Marsa Alamas,Egiptas,7,699,2024-02-24,5,Baltictours,poilsine
+Marsa Alamas,Egiptas,7,649,2024-02-10,5,Baltictours,poilsine
+Alanija,Turkija,7,640,2024-04-11,5,Baltictours,poilsine
+Hamametas,Tunisas,7,725,2024-05-07,4,Baltictours,poilsine
+Hurgada,Egiptas,7,816,2024-02-06,4,Baltictours,poilsine
+Hurgada,Egiptas,7,887,2024-02-27,4,Baltictours,poilsine
+Aja Napa,Kipras,7,566,2024-05-01,4,Baltictours,poilsine
+Alanija,Turkija,7,635,2024-04-21,5,Baltictours,poilsine
+Šarm Aš Šeichas,Egiptas,7,860,2024-03-06,5,Baltictours,poilsine
+Londonas,Jungtinė Karalystė,2,441,2024-02-16,4,Baltictours,poilsine
+Kreta,Graikija,7,601,2024-05-11,4,Baltictours,poilsine
+Duresis,Albanija,7,559,2024-06-01,4,Baltictours,poilsine
+Šarm aš Šeichas,Egiptas,7,718,2024-02-28,5,Baltictours,poilsine
+Barselona,Ispanija,7,669,2024-03-04,4,Baltictours,poilsine
+Sardinija,Italija,7,866,2024-09-13,4,Baltictours,poilsine
+Madeira,Portugalija,7,1017,2024-02-12,4,Baltictours,poilsine
+Duresis,Albanija,7,709,2024-06-06,4,Baltictours,poilsine
+Hamametas,Tunisas,7,640,2024-04-23,4,Baltictours,poilsine
+Kreta,Graikija,7,718,2024-05-11,4,Baltictours,poilsine
+Sicilija,Italija,7,809,2024-09-11,3,Baltictours,poilsine
+Didimas,Turkija,7,749,2024-09-20,5,Baltictours,poilsine
+Enfida,Tunisas,7,496,2024-05-02,4,Baltictours,poilsine
+Sidė,Turkija,7,591,2024-05-02,4,Baltictours,poilsine
+Zakintas,Graikija,7,909,2024-05-28,5,Baltictours,poilsine
+Sidė,Turkija,7,589,2024-04-09,5,Baltictours,poilsine
+Madeira,Portugalija,7,855,2024-02-26,4,Baltictours,poilsine
+Tenerifė,Ispanija,7,908,2024-02-23,4,Baltictours,poilsine
+Duresis,Albanija,7,939,2024-06-06,5,Baltictours,poilsine
+Duresis,Albanija,7,939,2024-06-20,5,Baltictours,poilsine
+Marsa Alamas,Egiptas,7,559,2024-02-24,5,Baltictours,poilsine
+Sal Hašišas,Egiptas,7,1545,2024-02-06,5,Baltictours,poilsine
+Taso sala,Graikija,7,829,2024-05-19,5,Baltictours,poilsine
+Hurgada,Egiptas,7,755,2024-02-22,4,Baltictours,poilsine
+Pataja,Tailandas,13,1829,2024-03-12,4,Baltictours,poilsine
+Madeira,Portugalija,7,1049,2024-02-12,4,Baltictours,poilsine
+Sicilija,Italija,7,2,2024-10-09,4,Baltictours,poilsine
+Enfida,Tunisas,7,570,2024-04-26,4,Baltictours,poilsine
+Tivatas,Juodkalnija,7,815,2024-05-20,4,Baltictours,poilsine
+Alanija,Turkija,7,626,2024-04-08,5,Baltictours,poilsine
+Marakešas,Marokas,7,699,2024-02-27,3,Baltictours,poilsine
+Šarm Aš Šeichas,Egiptas,7,717,2024-02-07,5,Baltictours,poilsine
+Patrai,Graikija,7,1061,2024-06-01,5,Baltictours,poilsine
+Kosta Del Sol,Ispanija,3,491,2024-02-14,4,Baltictours,poilsine
+Šarm Aš Šeichas,Egiptas,7,955,2024-02-25,5,Baltictours,poilsine
+Alanija,Turkija,7,657,2024-04-23,5,Baltictours,poilsine
+Makadi Bėjus,Egiptas,7,842,2024-03-06,5,Baltictours,poilsine
+Susas,Tunisas,7,829,2024-05-07,5,Baltictours,poilsine
+Alanija,Turkija,7,739,2024-04-07,5,Baltictours,poilsine
+Tivatas,Juodkalnija,7,889,2024-06-27,4,Baltictours,poilsine
+Rodas,Graikija,7,1248,2024-06-01,5,Baltictours,poilsine
+Tenerifė,Ispanija,7,974,2024-04-09,2,Baltictours,poilsine
+Taso sala,Graikija,7,599,2024-06-02,3,Baltictours,poilsine
+Sliema kurortas,Malta,7,576,2024-03-01,4,Baltictours,poilsine
+Kreta,Graikija,7,655,2024-05-07,4,Baltictours,poilsine
+Alanija,Turkija,7,730,2024-04-16,5,Baltictours,poilsine
+Galė,Šri Lanka,10,1681,2024-03-20,5,Baltictours,poilsine
+Kreta,Graikija,7,545,2024-05-03,2,Baltictours,poilsine
+Duresis,Albanija,7,709,2024-05-30,4,Baltictours,poilsine
+Hurgada,Egiptas,7,637,2024-02-08,4,Baltictours,poilsine
+Sidė,Turkija,7,680,2024-04-10,5,Baltictours,poilsine
+Kosta Del Sol,Ispanija,5,579,2024-02-14,4,Baltictours,poilsine
+Riminis,Italija,7,912,2024-05-30,4,Baltictours,poilsine
+Sidė,Turkija,7,612,2024-04-24,5,Baltictours,poilsine
+Zakintas,Graikija,7,999,2024-05-28,4,Baltictours,poilsine
+Qawra kurortas,Malta,7,437,2024-02-24,4,Baltictours,poilsine
+Makadi Bėjus,Egiptas,7,654,2024-01-31,5,Baltictours,poilsine
+Dubrovnikas,Kroatija,7,1179,2024-05-20,4,Baltictours,poilsine
+Monastyras,Tunisas,7,579,2024-05-03,4,Baltictours,poilsine
+Kreta,Graikija,7,779,2024-05-05,5,Baltictours,poilsine
+Alanija,Turkija,7,481,2024-04-09,4,Baltictours,poilsine
+Puketas,Tailandas,14,2797,2024-02-02,3,Baltictours,poilsine
+Malaga,Ispanija,7,471,2024-02-24,4,Baltictours,poilsine
+Šarm Aš Šeichas,Egiptas,7,662,2024-02-07,5,Baltictours,poilsine
+Tivatas,Juodkalnija,7,765,2024-05-23,5,Baltictours,poilsine
+Londonas,Jungtinė Karalystė,2,287,2024-03-30,3,Baltictours,poilsine
+Sicilija,Italija,7,875,2024-10-09,4,Baltictours,poilsine
+Alanija,Turkija,7,650,2024-04-06,5,Baltictours,poilsine
+Tivatas,Juodkalnija,7,1,2024-10-07,4,Baltictours,poilsine
+Kreta,Graikija,7,806,2024-05-07,4,Baltictours,poilsine
+Zakintas,Graikija,7,869,2024-05-28,4,Baltictours,poilsine
+Enfida,Tunisas,7,656,2024-04-30,4,Baltictours,poilsine
+Tenerifė,Ispanija,7,1265,2024-03-06,4,Baltictours,poilsine
+Pafosas,Kipras,7,352,2024-02-26,4,Baltictours,poilsine
+Sidė,Turkija,7,624,2024-04-08,5,Baltictours,poilsine
+Monastyras,Tunisas,7,626,2024-04-30,4,Baltictours,poilsine
+Tenerifė,Ispanija,7,1305,2024-02-21,4,Baltictours,poilsine
+Kemeras,Turkija,7,632,2024-04-17,5,Baltictours,poilsine
+Tenerifė,Ispanija,7,1239,2024-04-23,4,Baltictours,poilsine
+Taso sala,Graikija,7,719,2024-05-26,3,Baltictours,poilsine
+Sidė,Turkija,7,1141,2024-04-17,5,Baltictours,poilsine
+Hurgada,Egiptas,7,617,2024-02-22,5,Baltictours,poilsine
+Tenerifė,Ispanija,7,1231,2024-03-22,3,Baltictours,poilsine
+Tivatas,Juodkalnija,7,771,2024-05-19,4,Baltictours,poilsine
+Puketas,Tailandas,10,1,2024-02-05,3,Baltictours,poilsine
+Golemas,Albanija,7,749,2024-07-27,5,Baltictours,poilsine
+Kreta,Graikija,7,726,2024-05-03,5,Baltictours,poilsine
+Sidė,Turkija,7,636,2024-04-22,5,Baltictours,poilsine
+Kreta,Graikija,7,685,2024-05-02,5,Baltictours,poilsine
+Sidė,Turkija,7,619,2024-04-22,4,Baltictours,poilsine
+Susas,Tunisas,7,805,2024-05-07,5,Baltictours,poilsine
+Makadi Bėjus,Egiptas,7,679,2024-02-22,4,Baltictours,poilsine
+Zanzibaras,Tanzanija,11,1429,2024-03-16,4,Baltictours,poilsine
+Kreta,Graikija,7,813,2024-05-02,5,Baltictours,poilsine
+Belekas,Turkija,7,915,2024-04-22,5,Baltictours,poilsine
+Hikaduva,Šri Lanka,10,1165,2024-02-07,3,Baltictours,poilsine
+Kreta,Graikija,7,580,2024-05-02,4,Baltictours,poilsine
+Budva,Juodkalnija,7,900,2024-05-27,4,Baltictours,poilsine
+Zakintas,Graikija,7,929,2024-06-04,5,Baltictours,poilsine
+Tenerifė,Ispanija,7,1399,2024-04-23,4,Baltictours,poilsine
+Tivatas,Juodkalnija,7,879,2024-05-30,4,Baltictours,poilsine
+Tivatas,Juodkalnija,7,849,2024-10-07,4,Baltictours,poilsine
+Kemeras,Turkija,7,554,2024-04-10,4,Baltictours,poilsine
+Tenerifė,Ispanija,7,1549,2024-04-09,5,Baltictours,poilsine
+Madeira,Portugalija,7,1041,2024-03-11,4,Baltictours,poilsine
+Šarm Aš Šeichas,Egiptas,7,801,2024-02-26,5,Baltictours,poilsine
+Tenerifė,Ispanija,7,1425,2024-02-09,4,Baltictours,poilsine
+Šardža,Jungtiniai Arabų Emyratai,8,848,2024-02-03,3,Baltictours,poilsine
+Marsa Alamas,Egiptas,7,749,2024-02-10,5,Baltictours,poilsine
+Alanija,Turkija,7,1,2024-04-10,5,Baltictours,poilsine
+Hurgada,Egiptas,7,669,2024-01-31,5,Baltictours,poilsine
+Tivatas,Juodkalnija,7,679,2024-05-30,3,Baltictours,poilsine
+Kreta,Graikija,7,819,2024-05-13,4,Baltictours,poilsine
+Kalutara,Šri Lanka,9,1137,2024-02-28,4,Baltictours,poilsine
+Alanija,Turkija,7,610,2024-05-02,5,Baltictours,poilsine
+Kreta,Graikija,7,739,2024-04-27,4,Baltictours,poilsine
+Tivatas,Juodkalnija,7,979,2024-05-13,4,Baltictours,poilsine
+Soma Bėjus,Egiptas,7,699,2024-01-31,5,Baltictours,poilsine
+Zakintas,Graikija,7,829,2024-05-21,4,Baltictours,poilsine
+Zakintas,Graikija,7,909,2024-06-11,5,Baltictours,poilsine
+Šarm Aš Šeichas,Egiptas,7,826,2024-02-21,5,Baltictours,poilsine
+Evija,Graikija,7,779,2024-06-17,4,Baltictours,poilsine
+Kreta,Graikija,7,613,2024-05-05,4,Baltictours,poilsine
+Kreta,Graikija,7,1085,2024-04-30,5,Baltictours,poilsine
+Zakintas,Graikija,7,749,2024-05-21,4,Baltictours,poilsine
+Tivatas,Juodkalnija,7,659,2024-06-02,3,Baltictours,poilsine
+Alanija,Turkija,7,574,2024-04-12,5,Baltictours,poilsine
+Šardža,Jungtiniai Arabų Emyratai,7,906,2024-02-04,4,Baltictours,poilsine
+Larnaka,Kipras,7,524,2024-02-07,4,Baltictours,poilsine
+Dubajus,Jungtiniai Arabų Emyratai,8,1419,2024-02-28,5,Baltictours,poilsine
+Alanija,Turkija,7,555,2024-05-01,4,Baltictours,poilsine
+Kemeras,Turkija,7,1016,2024-05-27,5,Baltictours,poilsine
+Madeira,Portugalija,7,1199,2024-08-26,4,Baltictours,poilsine
+Marsa Alamas,Egiptas,7,758,2024-02-08,5,Baltictours,poilsine
+Alanija,Turkija,7,556,2024-04-12,5,Baltictours,poilsine
+Tivatas,Juodkalnija,7,909,2024-05-13,5,Baltictours,poilsine
+Tivatas,Juodkalnija,7,745,2024-05-16,4,Baltictours,poilsine
+Kreta,Graikija,7,706,2024-05-04,5,Baltictours,poilsine
+Madeira,Portugalija,7,966,2024-02-12,4,Baltictours,poilsine
+Tivatas,Juodkalnija,7,719,2024-05-16,4,Baltictours,poilsine
+Zakintas,Graikija,7,839,2024-09-24,5,Baltictours,poilsine
+Hurgada,Egiptas,7,755,2024-02-24,4,Baltictours,poilsine
+Bijela,Juodkalnija,7,935,2024-06-03,4,Baltictours,poilsine
+Madeira,Portugalija,7,969,2024-04-15,3,Baltictours,poilsine
+Algarvė,Portugalija,7,1015,2024-10-01,5,Baltictours,poilsine
+Tenerifė,Ispanija,7,1539,2024-04-02,4,Baltictours,poilsine
+Kemeras,Turkija,7,605,2024-04-03,4,Baltictours,poilsine
+Tenerifė,Ispanija,7,1399,2024-02-28,5,Baltictours,poilsine
+Pafosas,Kipras,7,388,2024-02-05,4,Baltictours,poilsine
+Evija,Graikija,7,729,2024-06-03,3,Baltictours,poilsine
+Kreta,Graikija,7,583,2024-05-07,4,Baltictours,poilsine
+Madeira,Portugalija,7,859,2024-04-29,3,Baltictours,poilsine
+Rodo sala,Graikija,7,719,2024-05-08,3,Baltictours,poilsine
+Pafosas,Kipras,3,334,2024-02-23,5,Baltictours,poilsine
+Enfida,Tunisas,7,727,2024-04-23,5,Baltictours,poilsine
+Maljorka,Ispanija,3,359,2024-05-04,3,Baltictours,poilsine
+Madeira,Portugalija,7,1095,2024-06-24,4,Baltictours,poilsine
+Tenerifė,Ispanija,7,1296,2024-03-20,3,Baltictours,poilsine
+Qawra kurortas,Malta,7,343,2024-02-23,3,Baltictours,poilsine
+Hurgada,Egiptas,7,631,2024-01-31,5,Baltictours,poilsine
+Madeira,Portugalija,7,1459,2024-03-25,5,Baltictours,poilsine
+Alanija,Turkija,7,1145,2024-04-10,5,Baltictours,poilsine
+Larnaka,Kipras,3,485,2024-03-08,3,Baltictours,poilsine
+Kreta,Graikija,7,765,2024-05-10,4,Baltictours,poilsine
+Tivatas,Juodkalnija,7,769,2024-08-22,4,Baltictours,poilsine
+Puketas,Tailandas,10,2212,2024-02-03,3,Baltictours,poilsine
+Tivatas,Juodkalnija,7,626,2024-06-20,3,Baltictours,poilsine
+Koggala,Šri Lanka,9,1165,2024-02-28,4,Baltictours,poilsine
+Tenerifė,Ispanija,7,1055,2024-04-16,3,Baltictours,poilsine
+Agadyras,Marokas,7,1159,2024-03-09,4,Baltictours,poilsine
+Atėnai,Graikija,7,607,2024-06-13,4,Baltictours,poilsine
+Cavtatas,Kroatija,7,1079,2024-10-06,4,Baltictours,poilsine
+Algarvė,Portugalija,7,995,2024-10-15,4,Baltictours,poilsine
+Pafosas,Kipras,7,590,2024-02-12,4,Baltictours,poilsine
+Madeira,Portugalija,8,1089,2024-04-30,4,Baltictours,poilsine
+Algarvė,Portugalija,7,1159,2024-10-22,5,Baltictours,poilsine
+Qawra kurortas,Malta,4,432,2024-02-26,4,Baltictours,poilsine
+Algarvė,Portugalija,7,999,2024-10-01,4,Baltictours,poilsine
+Madeira,Portugalija,7,1205,2024-07-01,5,Baltictours,poilsine
+Kreta,Graikija,7,787,2024-05-07,4,Baltictours,poilsine
+St.Julian’s kurortas,Malta,7,437,2024-02-23,4,Baltictours,poilsine
+Larnaka,Kipras,5,568,2024-03-01,4,Baltictours,poilsine
+Šardža,Jungtiniai Arabų Emyratai,8,825,2024-02-07,4,Baltictours,poilsine
+Maljorka,Ispanija,7,481,2024-05-14,4,Baltictours,poilsine
+Madeira,Portugalija,7,930,2024-05-13,4,Baltictours,poilsine
+Rodo sala,Graikija,7,706,2024-05-01,4,Baltictours,poilsine
+Larnaka,Kipras,3,577,2024-03-15,4,Baltictours,poilsine
+Kreta,Graikija,7,769,2024-05-17,4,Baltictours,poilsine
+Kreta,Graikija,7,740,2024-05-07,4,Baltictours,poilsine
+Poste Lafayette,Šiaurės Mauricijus,8,2009,2024-03-13,4,Baltictours,poilsine
+Alanija,Turkija,7,650,2024-04-05,5,Baltictours,poilsine
+Barselona,Ispanija,2,495,2024-05-01,3,Baltictours,poilsine
+Madeira,Portugalija,7,799,2024-03-05,3,Baltictours,poilsine
+St. Julian’s,Malta,7,604,2024-02-10,5,Baltictours,poilsine
+Qawra kurortas,Malta,7,395,2024-02-05,4,Baltictours,poilsine
+Qawra kurortas,Malta,2,312,2024-05-17,4,Baltictours,poilsine
+Atėnai,Graikija,3,630,2024-06-10,4,Baltictours,poilsine
+Tenerifė,Ispanija,7,1149,2024-04-16,3,Baltictours,poilsine
+Kreta,Graikija,7,573,2024-05-02,4,Baltictours,poilsine
+Tenerifė,Ispanija,7,1055,2024-04-16,4,Baltictours,poilsine
+Kemeras,Turkija,7,824,2024-05-14,5,Baltictours,poilsine
+Madeira,Portugalija,7,1138,2024-02-26,4,Baltictours,poilsine
+Qawra kurortas,Malta,7,368,2024-02-12,4,Baltictours,poilsine
+Riminis,Italija,7,1157,2024-06-27,4,Baltictours,poilsine
+Qawra,Malta,4,262,2024-02-12,4,Baltictours,poilsine
+Enfida,Tunisas,7,576,2024-05-28,4,Baltictours,poilsine
+Patrai,Graikija,7,763,2024-06-01,4,Baltictours,poilsine
+Madeira,Portugalija,7,1075,2024-02-26,4,Baltictours,poilsine
+Hamametas,Tunisas,7,885,2024-04-26,5,Baltictours,poilsine
+Larnaka,Kipras,7,790,2024-04-03,4,Baltictours,poilsine
+Tivatas,Juodkalnija,7,769,2024-06-02,4,Baltictours,poilsine
+Duresis,Albanija,7,699,2024-06-01,4,Baltictours,poilsine
+Riminis,Italija,7,716,2024-06-20,4,Baltictours,poilsine
+Qawra kurortas,Malta,7,361,2024-02-24,4,Baltictours,poilsine
+Patrai,Graikija,7,854,2024-06-01,4,Baltictours,poilsine
+Larnaka,Kipras,7,771,2024-02-02,5,Baltictours,poilsine
+Pafosas,Kipras,3,460,2024-03-15,4,Baltictours,poilsine
+Tenerifė,Ispanija,7,1069,2024-03-06,4,Baltictours,poilsine
+Madeira,Portugalija,7,1279,2024-08-26,4,Baltictours,poilsine
+Maljorka,Ispanija,7,506,2024-05-11,4,Baltictours,poilsine
+Tenerifė,Ispanija,7,1725,2024-03-13,5,Baltictours,poilsine
+Madeira,Portugalija,7,878,2024-05-06,4,Baltictours,poilsine
+Alanija,Turkija,7,673,2024-04-25,5,Baltictours,poilsine
+Algarvė,Portugalija,7,879,2024-10-01,3,Baltictours,poilsine
+Kreta,Graikija,7,625,2024-05-18,4,Baltictours,poilsine
+Kemeras,Turkija,7,865,2024-04-20,5,Baltictours,poilsine
+Puketas,Tailandas,14,1789,2024-03-29,4,Baltictours,poilsine
+Pafosas,Kipras,4,272,2024-02-12,4,Baltictours,poilsine
+Tenerifė,Ispanija,7,18035,2024-02-02,5,Baltictours,poilsine
+Qawra kurortas,Malta,7,773,2024-06-07,4,Baltictours,poilsine
+Tenerifė,Ispanija,7,1315,2024-04-09,4,Baltictours,poilsine
+Italija,"Sorento, Kapri Sala ir kt.",3,699,2024-04-20,3,Baltictours,poilsine
+Kosta Del Sol,Ispanija,7,585,2024-02-05,4,Baltictours,poilsine
+Korfu,Graikija,7,467,2024-05-07,2,Baltictours,poilsine
+Krabi,Tailandas,14,2029,2024-03-29,4,Baltictours,poilsine
+Limasolis,Kipras,7,825,2024-10-19,3,Baltictours,poilsine
+Ahungalla,Šri Lanka,10,1875,2024-04-04,5,Baltictours,poilsine
+Kreta,Graikija,7,599,2024-05-03,4,Baltictours,poilsine
+Kreta,Graikija,7,808,2024-05-04,4,Baltictours,poilsine
+Auksinės kopos,Bulgarija,7,582,2024-06-07,4,Baltictours,poilsine
+Trou D'eau Douce,Mauricijus,11,2479,2024-03-17,3,Baltictours,poilsine
+Chamametas,Tunisas,7,985,2024-04-23,5,Baltictours,poilsine
+Kemeras,Turkija,7,705,2024-05-12,4,Baltictours,poilsine
+Pataja,Tailandas,13,1865,2024-02-27,5,Baltictours,poilsine
+Atėnai,Graikija,3,527,2024-06-17,4,Baltictours,poilsine
+Kosta Dorada,Ispanija,7,699,2024-05-10,4,Baltictours,poilsine
+Madeira,Portugalija,7,955,2024-02-12,4,Baltictours,poilsine
+Maljorka,Ispanija,7,1029,2024-05-24,4,Baltictours,poilsine
+Kosta Del Sol,Ispanija,7,827,2024-02-10,4,Baltictours,poilsine
+Sicilija,Italija,7,989,2024-09-18,4,Baltictours,poilsine
+Qawra kurortas,Malta,7,566,2024-02-09,4,Baltictours,poilsine
+Zanzibaras,Tanzanija,11,1499,2024-04-06,3,Baltictours,poilsine
+Kreta,Graikija,7,621,2024-06-01,3,Baltictours,poilsine
+Kemeras,Turkija,7,855,2024-04-06,5,Baltictours,poilsine
+Riminis,Italija,7,958,2024-06-06,4,Baltictours,poilsine
+Pataja,Tailandas,13,1989,2024-02-27,4,Baltictours,poilsine
+Aja Napa,Kipras,7,819,2024-10-19,3,Baltictours,poilsine
+St.Julian’s kurortas,Malta,7,570,2024-02-12,4,Baltictours,poilsine
+Pafosas,Kipras,7,700,2024-02-05,5,Baltictours,poilsine
+Duresis,Albanija,7,589,2024-06-06,4,Baltictours,poilsine
+Atėnai,Graikija,4,638,2024-07-04,4,Baltictours,poilsine
+Kreta,Graikija,7,974,2024-05-01,5,Baltictours,poilsine
+Saulėtas krantas,Bulgarija,7,475,2024-06-03,4,Baltictours,poilsine
+Sidė,Turkija,7,839,2024-05-08,5,Baltictours,poilsine
+Evija,Graikija,7,1009,2024-06-10,4,Baltictours,poilsine
+Puketas,Tailandas,14,2525,2024-04-12,4,Baltictours,poilsine
+Kreta,Graikija,7,720,2024-07-02,4,Baltictours,poilsine
+Punta Kana,Dominikos Respublika,12,2625,2024-03-10,5,Baltictours,poilsine
+Hurgada,Egiptas,7,771,2024-02-03,4,Baltictours,poilsine
+Tenerifė,Ispanija,7,1479,2024-04-09,4,Baltictours,poilsine
+Larnaka,Kipras,7,532,2024-03-04,4,Baltictours,poilsine
+Sidė,Turkija,7,792,2024-04-17,5,Baltictours,poilsine
+Korfu,Graikija,7,753,2024-05-20,4,Baltictours,poilsine
+Trou aux Biches,Šiaurės Mauricijus,11,2439,2024-03-31,3,Baltictours,poilsine
+Riminis,Italija,7,835,2024-05-30,4,Baltictours,poilsine
+Madeira,Portugalija,7,976,2024-02-26,5,Baltictours,poilsine
+Chamametas,Tunisas,7,1016,2024-05-14,5,Baltictours,poilsine
+Duresis,Albanija,7,779,2024-06-22,4,Baltictours,poilsine
+Varaderas,Kuba,13,2015,2024-02-18,4,Baltictours,poilsine
+Maljorka,Ispanija,7,1245,2024-05-31,4,Baltictours,poilsine
+Pafosas,Kipras,3,626,2024-04-07,5,Baltictours,poilsine
+Enfida,Tunisas,7,820,2024-05-03,5,Baltictours,poilsine
+Susas,Tunisas,7,826,2024-05-10,5,Baltictours,poilsine
+Atėnai,Graikija,3,629,2024-06-10,5,Baltictours,poilsine
+Sicilija,Italija,7,949,2024-10-09,4,Baltictours,poilsine
+Atėnai,Graikija,4,478,2024-06-20,4,Baltictours,poilsine
+Aja Napa,Kipras,7,579,2024-04-26,4,Baltictours,poilsine
+Pataja,Tailandas,13,1745,2024-02-27,4,Baltictours,poilsine
+Madeira,Portugalija,7,1177,2024-03-11,4,Baltictours,poilsine
+Auksinės kopos,Bulgarija,7,774,2024-06-03,4,Baltictours,poilsine
+Sicilija,Italija,7,975,2024-09-25,4,Baltictours,poilsine
+Aja Napa,Kipras,7,537,2024-05-08,4,Baltictours,poilsine
+Maljorka,Ispanija,7,1155,2024-05-31,4,Baltictours,poilsine
+Bulgarija,Šv. Konstantinas ir Elena,7,948,2024-06-06,5,Baltictours,poilsine
+Madeira,Portugalija,7,1391,2024-03-11,5,Baltictours,poilsine
+Algarvė,Portugalija,7,1149,2024-10-15,4,Baltictours,poilsine
+Tenerifė,Ispanija,7,1495,2024-04-23,4,Baltictours,poilsine
+Hurgada,Egiptas,7,843,2024-05-01,5,Baltictours,poilsine
+Golemas,Albanija,7,779,2024-07-04,5,Baltictours,poilsine
+Atėnai,Graikija,4,694,2024-06-20,4,Baltictours,poilsine
+Sicilija,Italija,7,1049,2024-10-02,4,Baltictours,poilsine
+Varaderas,Kuba,13,2025,2024-03-17,3,Baltictours,poilsine
+Zanzibaras,Tanzanija,11,1655,2024-04-06,4,Baltictours,poilsine
+Alanija,Turkija,7,919,2024-05-01,5,Baltictours,poilsine
+Qawra kurortas,Malta,7,266,2024-02-09,3,Baltictours,poilsine
+Maljorka,Ispanija,7,1125,2024-05-24,4,Baltictours,poilsine
+Atėnai,Graikija,4,524,2024-08-15,4,Baltictours,poilsine
+Sicilija,Italija,7,805,2024-10-02,3,Baltictours,poilsine
+Atėnai,Graikija,4,638,2024-07-04,4,Baltictours,poilsine
+Mallieha kurortas,Malta,7,364,2024-02-24,4,Baltictours,poilsine
+Šarm Aš Šeichas,Egiptas,7,659,2024-03-07,5,Baltictours,poilsine
+St. Julian’s kurortas,Malta,3,333,2024-02-09,5,Baltictours,poilsine
+Pafosas,Kipras,5,878,2024-06-16,4,Baltictours,poilsine
+Madeira,Portugalija,7,1405,2024-04-22,4,Baltictours,poilsine
+Sidė,Turkija,7,955,2024-04-20,5,Baltictours,poilsine
+Belekas,Turkija,7,1265,2024-05-14,5,Baltictours,poilsine
+Duresis,Albanija,7,839,2024-05-30,4,Baltictours,poilsine
+Aja Napa,Kipras,7,857,2024-04-01,5,Baltictours,poilsine
+Sicilija,Italija,7,909,2024-10-09,4,Baltictours,poilsine
+Maljorka,Ispanija,7,1559,2024-05-31,4,Baltictours,poilsine
+Algarvė,Portugalija,7,1209,2024-10-15,4,Baltictours,poilsine
+Mellieha,Malta,7,958,2024-04-28,5,Baltictours,poilsine
+Sicilija,Italija,7,1409,2024-10-09,5,Baltictours,poilsine
+Aja Napa,Kipras,7,524,2024-05-03,4,Baltictours,poilsine
+Alanija,Turkija,7,573,2024-04-28,4,Baltictours,poilsine
+Tenerifė,Ispanija,7,1623,2024-02-06,5,Baltictours,poilsine
+Sicilija,Italija,7,1105,2024-09-18,4,Baltictours,poilsine
+Belekas,Turkija,7,819,2024-03-30,5,Baltictours,poilsine
+Pataja,Tailandas,13,2005,2024-03-05,4,Baltictours,poilsine
+Bečicis,Juodkalnija,7,650,2024-05-19,4,Baltictours,poilsine
+Kreta,Graikija,7,698,2024-05-14,5,Baltictours,poilsine
+Kalabrija,Italija,7,1152,2024-09-09,4,Baltictours,poilsine
+Hamametas,Tunisas,7,599,2024-05-09,5,Baltictours,poilsine
+Kalabrija,Italija,7,801,2024-06-02,4,Baltictours,poilsine
+Kalabrija,Italija,7,725,2024-09-21,3,Baltictours,poilsine
+Varaderas,Kuba,13,2089,2024-03-17,3,Baltictours,poilsine
+Kemeras,Turkija,7,740,2024-03-31,5,Baltictours,poilsine
+Puketas,Tailandas,14,1709,2024-03-29,3,Baltictours,poilsine
+Kalabrija,Italija,7,765,2024-09-28,4,Baltictours,poilsine
+Kalabrija,Italija,7,859,2024-09-21,4,Baltictours,poilsine
+Petrovacas,Juodkalnija,7,675,2024-05-27,4,Baltictours,poilsine
+Tivatas,Juodkalnija,7,764,2024-06-02,4,Baltictours,poilsine
+Italija,Venecija,3,729,2024-06-15,3,Baltictours,poilsine
+Sicilija,Italija,7,1499,2024-09-25,4,Baltictours,poilsine
+Sicilija,Italija,7,949,2024-10-09,4,Baltictours,poilsine
+Tivatas,Juodkalnija,7,570,2024-05-19,4,Baltictours,poilsine
+Alanija,Turkija,7,499,2024-04-28,4,Baltictours,poilsine
+Tivatas,Juodkalnija,7,857,2024-05-29,5,Baltictours,poilsine
+Algarvė,Portugalija,7,1099,2024-10-15,4,Baltictours,poilsine
+Madeira,Portugalija,7,1199,2024-09-02,4,Baltictours,poilsine
+Grand Bė,Mauricijus,11,1899,2024-03-17,3,Baltictours,poilsine
+Sidė,Turkija,7,844,2024-03-31,5,Baltictours,poilsine
+Bel Maras,Mauricijus,10,2339,2024-02-18,4,Baltictours,poilsine
+Kolombas,Šri Lanka,12,2069,2024-03-25,4,Baltictours,poilsine
+Bel Maras,Mauricijus,11,2219,2024-03-17,4,Baltictours,poilsine
+Mon Šuazi,Mauricijus,11,2035,2024-03-17,3,Baltictours,poilsine
+Kolombas,Šri Lanka,13,1805,2024-03-06,4,Baltictours,poilsine
+Madeira,Portugalija,7,1515,2024-09-30,5,Baltictours,poilsine
+Algarvė,Portugalija,7,1315,2024-10-01,5,Baltictours,poilsine
+Mahė sala,Seišeliai,10,1575,2024-02-23,2,Baltictours,poilsine
+Varaderas,Kuba,13,2175,2024-02-18,5,Baltictours,poilsine
+Mahė sala,Seišeliai,10,2429,2024-02-09,4,Baltictours,poilsine
+Hikaduva,Šri Lanka,12,1729,2024-02-12,3,Baltictours,poilsine
+Susas,Tunisas,7,714,2024-05-20,5,Baltictours,poilsine
+Susas,Tunisas,7,655,2024-05-02,4,Baltictours,poilsine
+Alanija,Turkija,7,645,2024-04-21,4,Baltictours,poilsine
+Flik an Flak,Mauricijus,10,2349,2024-03-18,4,Baltictours,poilsine
+Flik an Flak,Mauricijus,10,2875,2024-02-18,5,Baltictours,poilsine
+Mahė sala,Seišeliai,10,2349,2024-02-23,4,Baltictours,poilsine
+Bel Maras,Mauricijus,10,2449,2024-02-18,4,Baltictours,poilsine
+Alanija,Turkija,7,989,2024-05-05,5,Baltictours,poilsine
+Tenerifė,Ispanija,7,1215,2024-04-16,4,Baltictours,poilsine
+Zakintas,Graikija,7,1179,2024-06-04,5,Baltictours,poilsine
+Qawra kurortas,Malta,7,555,2024-02-23,4,Baltictours,poilsine
+Qawra kurortas,Malta,7,495,2024-02-03,4,Baltictours,poilsine
+Madeira,Portugalija,7,1470,2024-05-20,4,Baltictours,poilsine
+Tenerifė,Ispanija,7,1626,2024-02-02,4,Baltictours,poilsine
+Maljorka,Ispanija,7,979,2024-05-17,4,Baltictours,poilsine
+Mauricijus,Afrika,11,2259,2024-03-17,3,Baltictours,poilsine
+Lenkija,Zakopanė,3,277,2024-03-08,3,Kelioniu panorama,pazintine
+Lenkija,Varšuva,1,126,2024-02-17,3,Kelioniu panorama,pazintine
+Lenkija,Varšuva,1,177,2024-02-16,5,Kelioniu panorama,pazintine
+Estija,-,1,137,2024-04-06,3,Kelioniu panorama,pazintine
+Turkija,KAPPADOKYA,5,931,2024-04-04,3,Kelioniu panorama,pazintine
+Zanzibaras,Nungvis,8,788,2024-01-31,3,Kelioniu panorama,egzotine
+Tailandas,Pataja,13,1375,2024-03-05,4,Kelioniu panorama,egzotine
+Zanzibaras,Pongwe,8,927,2024-01-31,3,Kelioniu panorama,egzotine
+Kenija,Mombasas,7,1099,2024-02-03,4,Kelioniu panorama,egzotine
+Tailandas,Bankokas,13,1429,2024-03-05,4,Kelioniu panorama,egzotine
+Šri Lanka,.,10,1344,2024-02-28,4,Kelioniu panorama,egzotine
+Šri Lanka,.,10,1060,2024-02-28,3,Kelioniu panorama,egzotine
+Šri Lanka,.,11,1544,2024-03-14,5,Kelioniu panorama,egzotine
+Indonezija,Balio sala,13,1879,2024-06-19,4,Kelioniu panorama,egzotine
+Indonezija,BALI-KUTA,13,1786,2024-02-19,4,Kelioniu panorama,egzotine
+Šri Lanka,.,11,1284,2024-03-14,5,Kelioniu panorama,egzotine
+Šri Lanka,.,7,1077,2024-02-01,3,Kelioniu panorama,egzotine
+Kuba,Havana,13,1885,2024-02-18,3,Kelioniu panorama,egzotine
+Vietnamas,Ho Chi Minis,12,1435,2024-03-17,3,Kelioniu panorama,egzotine
+Indonezija,Denpasaras,13,1665,2024-02-19,4,Kelioniu panorama,egzotine
+Indonezija,Denpasaras,12,1635,2024-02-05,4,Kelioniu panorama,egzotine
+Meksika,Kankunas,12,Išparduota,Nenurodyta,3,Kelioniu panorama,egzotine
+Šri Lanka,.,12,Išparduota,Nenurodyta,4,Kelioniu panorama,egzotine
+Šri Lanka,.,12,Išparduota,Nenurodyta,2,Kelioniu panorama,egzotine
+Kipras,Kirenija,7,489,2024-04-19,4,Kelioniu panorama,poilsine
+Juodkalnija,Budva,7,423,Nenurodyta,3,Kelioniu panorama,poilsine
+Turkija,Alanija,7,603,2024-03-27,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,1238,2024-02-03,5,Kelioniu panorama,poilsine
+Turkija,Bodrumas,7,444,2024-06-12,4,Kelioniu panorama,poilsine
+Turkija,Didim,7,866,2024-05-29,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,462,2024-03-20,4,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,573,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Belekas,7,876,2024-04-14,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,758,2024-02-24,4,Kelioniu panorama,poilsine
+Egiptas,Madinat Makadi,7,721,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,571,Nenurodyta,5,Kelioniu panorama,poilsine
+Juodkalnija,Becici,7,523,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,479,2024-03-27,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,627,2024-04-03,4,Kelioniu panorama,poilsine
+Turkija,Sidė,7,713,2024-06-07,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,644,2024-04-10,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,664,2024-06-04,5,Kelioniu panorama,poilsine
+Egiptas,Sahl Hasheesh,7,632,Nenurodyta,5,Kelioniu panorama,poilsine
+Graikija,Kreta,7,581,Nenurodyta,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,656,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,524,2024-03-20,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,469,Nenurodyta,4,Kelioniu panorama,poilsine
+Juodkalnija,Tivat,7,631,Nenurodyta,4,Kelioniu panorama,poilsine
+Tunisas,Mahdija,7,516,2024-08-27,4,Kelioniu panorama,poilsine
+Bulgarija,Burgasas,7,746,Nenurodyta,4,Kelioniu panorama,poilsine
+Tenerifė,Golf del Suras,7,1161,2024-02-28,4,Kelioniu panorama,poilsine
+Turkija,Evrenseki,7,713,2024-04-06,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,525,2024-04-06,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,978,2024-02-28,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,813,2024-03-27,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,674,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,688,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Antalija,7,604,2024-04-04,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,535,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,552,2024-06-04,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,432,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Bodrumas,7,701,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,584,2024-02-28,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,656,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,798,2024-02-28,5,Kelioniu panorama,poilsine
+Graikija,CRETE-HERAKLION,7,645,Nenurodyta,4,Kelioniu panorama,poilsine
+Kipras,Protare,7,594,2024-03-16,5,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,ABU DHABI - CITY,8,1119,2024-02-29,5,Kelioniu panorama,poilsine
+Tunisas,Hammamet,7,527,2024-06-13,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,465,Nenurodyta,5,Kelioniu panorama,poilsine
+Madeira,Ponta Delgana,7,719,2024-03-05,4,Kelioniu panorama,poilsine
+Zanzibaras,Nungvis,8,788,2024-01-31,3,Kelioniu panorama,poilsine
+Italija,ADRIATIC COAST - RIMINI,7,545,Nenurodyta,3,Kelioniu panorama,poilsine
+Tunisas,Hammamet,7,532,2024-05-02,5,Kelioniu panorama,poilsine
+Tunisas,Monastyras,7,576,2024-05-02,5,Kelioniu panorama,poilsine
+Tunisas,Monastyras,7,820,Nenurodyta,5,Kelioniu panorama,poilsine
+Graikija,CRETE-HERAKLION,7,558,Nenurodyta,4,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,935,2024-02-26,5,Kelioniu panorama,poilsine
+Turkija,Turkler,7,693,2024-06-07,5,Kelioniu panorama,poilsine
+Turkija,Alanya,7,621,2024-06-04,5,Kelioniu panorama,poilsine
+Turkija,Konakli,7,442,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,578,2024-06-04,5,Kelioniu panorama,poilsine
+Turkija,Konakli,7,482,Nenurodyta,5,Kelioniu panorama,poilsine
+Tunisas,Hammamet,7,559,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,494,Nenurodyta,5,Kelioniu panorama,poilsine
+Tunisas,Susas,7,886,Nenurodyta,5,Kelioniu panorama,poilsine
+Tunisas,Enfidha,7,503,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,587,Nenurodyta,5,Kelioniu panorama,poilsine
+Madeira,Funšalis,7,699,2024-03-05,3,Kelioniu panorama,poilsine
+Turkija,Alanija,7,441,Nenurodyta,5,Kelioniu panorama,poilsine
+Tenerifė,Puerto de la Krusas,7,866,2024-02-06,4,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,659,Nenurodyta,5,Kelioniu panorama,poilsine
+Slovakija,Žemieji Tatrai,4,350,2024-02-14,3,Kelioniu panorama,poilsine
+Turkija,Antalija,7,696,2024-06-04,5,Kelioniu panorama,poilsine
+Turkija,Bodrumas,7,678,2024-05-29,5,Kelioniu panorama,poilsine
+Turkija,Antalija,7,910,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Nabq bay,4,745,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,628,2024-06-04,5,Kelioniu panorama,poilsine
+Turkija,Konakli,7,427,2024-04-07,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,359,2024-03-27,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,649,Nenurodyta,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,610,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,660,2024-02-28,5,Kelioniu panorama,poilsine
+Egiptas,Hadaba,4,528,Nenurodyta,5,Kelioniu panorama,poilsine
+Tailandas,Pataja,13,1375,2024-03-05,4,Kelioniu panorama,poilsine
+Juodkalnija,Petrovac,7,621,Nenurodyta,4,Kelioniu panorama,poilsine
+Tunisas,Susas,7,530,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Turkler,7,653,2024-06-04,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,1105,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Goynuk,7,1343,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,1010,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,791,Nenurodyta,4,Kelioniu panorama,poilsine
+Egiptas,Naama bay,7,451,Nenurodyta,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,453,2024-03-13,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,707,Nenurodyta,5,Kelioniu panorama,poilsine
+Ispanija,Puerto De La Cruz,7,1018,Nenurodyta,4,Kelioniu panorama,poilsine
+Graikija,CRETE-LASSITHI,7,626,Nenurodyta,4,Kelioniu panorama,poilsine
+Graikija,CRETE-LASSITHI,7,505,Nenurodyta,4,Kelioniu panorama,poilsine
+Graikija,CRETE-HERAKLION,7,553,Nenurodyta,4,Kelioniu panorama,poilsine
+Zanzibaras,Pongwe,8,927,2024-01-31,3,Kelioniu panorama,poilsine
+Kenija,Mombasas,7,1099,2024-02-03,4,Kelioniu panorama,poilsine
+Turkija,Belekas,7,1989,2024-04-06,5,Kelioniu panorama,poilsine
+Turkija,Alanya,11,910,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Avsallar,14,652,2024-03-23,5,Kelioniu panorama,poilsine
+Graikija,Rodo sala,7,772,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,582,2024-03-06,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,678,Nenurodyta,5,Kelioniu panorama,poilsine
+Bulgarija,Golden Sands,7,914,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Antalija,7,577,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Antalija,7,465,Nenurodyta,5,Kelioniu panorama,poilsine
+Tunisas,Enfidha,7,494,Nenurodyta,4,Kelioniu panorama,poilsine
+Bulgarija,SUNNY BEACH,7,428,2024-06-01,4,Kelioniu panorama,poilsine
+Bulgarija,SUNNY BEACH,7,383,2024-06-01,4,Kelioniu panorama,poilsine
+Tailandas,Bankokas,13,1429,2024-03-05,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,451,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,729,2024-01-31,5,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,610,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Belekas,7,874,2024-04-17,5,Kelioniu panorama,poilsine
+Turkija,Tekirova,7,723,2024-04-25,5,Kelioniu panorama,poilsine
+Turkija,Antalija,7,558,2024-04-17,5,Kelioniu panorama,poilsine
+Turkija,Alanya,7,609,2024-04-17,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,689,2024-04-25,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,681,2024-04-17,5,Kelioniu panorama,poilsine
+Juodkalnija,IGALO,7,604,2024-05-16,4,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,Ras Al Khaimah,8,1567,2024-03-06,5,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,Dubajus,7,1324,2024-02-04,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,571,Nenurodyta,5,Kelioniu panorama,poilsine
+Juodkalnija,Tivat,7,824,Nenurodyta,4,Kelioniu panorama,poilsine
+Graikija,Kreta,7,399,2024-08-31,3,Kelioniu panorama,poilsine
+Turkija,Antalija,7,635,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,8,610,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,659,2024-02-28,4,Kelioniu panorama,poilsine
+Turkija,Okurcalar,7,530,2024-04-08,5,Kelioniu panorama,poilsine
+Turkija,Belekas,7,536,Nenurodyta,4,Kelioniu panorama,poilsine
+Kipras,Larnaka,7,495,2024-03-16,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,740,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,818,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,749,2024-02-28,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,592,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,621,2024-02-21,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,514,2024-02-28,5,Kelioniu panorama,poilsine
+Šri Lanka,.,10,1344,2024-02-28,4,Kelioniu panorama,poilsine
+Bulgarija,SUNNY BEACH,7,825,2024-06-05,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,8,745,2024-02-24,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,664,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Antalija,7,482,2024-04-04,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,614,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,577,2024-02-28,5,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,Ras Al Khaimah,8,1082,2024-02-07,5,Kelioniu panorama,poilsine
+Šri Lanka,.,10,1060,2024-02-28,3,Kelioniu panorama,poilsine
+Lenkija,Varšuva,1,172,2024-02-16,4,Kelioniu panorama,poilsine
+Lenkija,Zakopanė,3,277,2024-03-08,3,Kelioniu panorama,poilsine
+Tunisas,Hammamet,7,459,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,1041,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,731,2024-02-28,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,596,2024-04-02,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,593,2024-02-28,4,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,DUBAI-CITY,8,888,2024-03-09,3,Kelioniu panorama,poilsine
+Italija,AMALFI COAST,5,687,2024-05-14,3,Kelioniu panorama,poilsine
+Turkija,Alanija,7,749,2024-04-29,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,5,497,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,811,2024-04-11,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,678,2024-02-01,5,Kelioniu panorama,poilsine
+Madeira,Funšalis,7,668,2024-02-12,4,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,AJMAN,8,975,2024-02-24,4,Kelioniu panorama,poilsine
+Ispanija,Las Palmas (Kanarų salos),7,1559,2024-02-05,4,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,705,2024-04-02,5,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,Jumeirah,8,998,2024-03-13,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,618,2024-02-01,4,Kelioniu panorama,poilsine
+Turkija,Okurcalar,7,605,2024-04-07,5,Kelioniu panorama,poilsine
+Šri Lanka,.,11,1544,2024-03-14,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,824,Nenurodyta,5,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,DUBAI-JUMEIRAH,7,1231,2024-02-04,5,Kelioniu panorama,poilsine
+Ispanija,Playa De Las Americas,7,1085,2024-02-23,4,Kelioniu panorama,poilsine
+Portugalija,Madeira,7,1317,Nenurodyta,4,Kelioniu panorama,poilsine
+Egiptas,Marsa Alamas,7,699,2024-02-17,4,Kelioniu panorama,poilsine
+Turkija,Antalija,7,624,2024-04-11,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,589,2024-02-28,4,Kelioniu panorama,poilsine
+Ispanija,Tenerifė,7,1263,2024-02-28,4,Kelioniu panorama,poilsine
+Latvija,JURMALA INC,2,105,2024-02-16,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,498,2024-04-18,5,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,Palm Jumeirah Island,8,2544,2024-01-31,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,668,2024-04-07,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,716,2024-04-07,5,Kelioniu panorama,poilsine
+Turkija,Belekas,7,1909,2024-04-07,5,Kelioniu panorama,poilsine
+Turkija,Antalija,7,604,2024-04-05,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,738,2024-02-20,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,672,2024-02-28,5,Kelioniu panorama,poilsine
+Tenerifė,Puerto de la Krusas,7,1199,2024-02-21,5,Kelioniu panorama,poilsine
+Tenerifė,Plaja de la Arena,7,1013,2024-02-21,3,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,Dubajus,8,1186,2024-02-24,5,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,Jumeirah,7,1509,2024-02-04,5,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,Dubajus,7,974,2024-02-04,4,Kelioniu panorama,poilsine
+Indonezija,Balio sala,13,1879,2024-06-19,4,Kelioniu panorama,poilsine
+Egiptas,Sahl Hasheesh,7,1006,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,713,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Antalija,7,678,2024-04-02,5,Kelioniu panorama,poilsine
+Graikija,Rodo sala,7,620,2024-05-01,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,554,2024-02-28,5,Kelioniu panorama,poilsine
+Portugalija,Madeira,7,1004,Nenurodyta,4,Kelioniu panorama,poilsine
+Indonezija,BALI-KUTA,13,1786,2024-02-19,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,589,2024-02-28,4,Kelioniu panorama,poilsine
+Turkija,Sidė,7,543,Nenurodyta,5,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,Šardža,8,825,2024-02-21,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,476,2024-02-28,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,773,Nenurodyta,5,Kelioniu panorama,poilsine
+Zanzibaras,Dongwe,8,1082,2024-02-02,5,Kelioniu panorama,poilsine
+Turkija,Belekas,7,728,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,908,Nenurodyta,4,Kelioniu panorama,poilsine
+Portugalija,Funšalis,7,646,2024-02-26,3,Kelioniu panorama,poilsine
+Šri Lanka,.,11,1284,2024-03-14,5,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,ABU DHABI - CITY,8,1449,2024-02-01,5,Kelioniu panorama,poilsine
+Graikija,Kreta,7,789,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,773,2024-04-12,5,Kelioniu panorama,poilsine
+Turkija,Antalija,7,1229,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,721,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,667,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,870,Nenurodyta,5,Kelioniu panorama,poilsine
+Portugalija,Madeira,7,891,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Sidė,7,937,2024-04-11,5,Kelioniu panorama,poilsine
+Austrija,Kaprun,7,999,Nenurodyta,4,Kelioniu panorama,poilsine
+Austrija,Kaprun,7,926,Nenurodyta,1,Kelioniu panorama,poilsine
+Šri Lanka,.,7,1077,2024-02-01,3,Kelioniu panorama,poilsine
+Ispanija,Tenerifė,7,1008,Nenurodyta,3,Kelioniu panorama,poilsine
+Portugalija,Madeira,7,782,Nenurodyta,3,Kelioniu panorama,poilsine
+Madeira,Funšalis,7,696,2024-02-26,4,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,DUBAI-CITY,7,926,Nenurodyta,4,Kelioniu panorama,poilsine
+Austrija,BAD GASTEIN,7,1497,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Antalija,7,804,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,744,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,4,513,Nenurodyta,5,Kelioniu panorama,poilsine
+Kuba,Havana,13,1885,2024-02-18,3,Kelioniu panorama,poilsine
+Ispanija,TENERIFE SUR,7,873,Nenurodyta,3,Kelioniu panorama,poilsine
+Albanija,Duresis,7,569,2024-05-30,4,Kelioniu panorama,poilsine
+Turkija,Antalija,7,956,Nenurodyta,5,Kelioniu panorama,poilsine
+Indonezija,Denpasaras,13,1769,2024-02-19,4,Kelioniu panorama,poilsine
+Vietnamas,Ho Chi Minis,12,1435,2024-03-17,3,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,933,Nenurodyta,5,Kelioniu panorama,poilsine
+Juodkalnija,Kumbor,7,701,Nenurodyta,4,Kelioniu panorama,poilsine
+Graikija,RHODES-IALYSOS/RODOS,7,840,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,814,2024-02-17,5,Kelioniu panorama,poilsine
+Turkija,Belekas,7,887,Nenurodyta,5,Kelioniu panorama,poilsine
+Bulgarija,Burgasas,7,532,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,499,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,902,Nenurodyta,5,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,Ras Al Khaimah,8,888,2024-01-31,5,Kelioniu panorama,poilsine
+Ispanija,Barselona,7,652,2024-05-17,4,Kelioniu panorama,poilsine
+Indonezija,Denpasaras,13,1665,2024-02-19,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,681,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,10,931,2024-02-17,4,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,1128,2024-02-18,5,Kelioniu panorama,poilsine
+Egiptas,Marsa Alamas,7,789,2024-02-17,4,Kelioniu panorama,poilsine
+Albanija,Duresis,7,569,2024-06-06,4,Kelioniu panorama,poilsine
+Ispanija,TENERIFE SUR,7,2011,Nenurodyta,5,Kelioniu panorama,poilsine
+Juodkalnija,Budva,7,762,Nenurodyta,4,Kelioniu panorama,poilsine
+Tunisas,Mahdija,7,704,Nenurodyta,5,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,DUBAI-CITY,7,847,Nenurodyta,3,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,DUBAI-PALM JUMEIRAH,7,1899,Nenurodyta,5,Kelioniu panorama,poilsine
+Italija,CALABRIA (TYRRHENIAN COAST),7,806,Nenurodyta,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,605,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,852,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,1135,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,554,Nenurodyta,4,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,1101,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Avsallar,7,728,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,14,990,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Bodrumas,7,1061,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,654,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Belekas,7,1312,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,790,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,4,539,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,668,Nenurodyta,5,Kelioniu panorama,poilsine
+Graikija,Kreta,4,514,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,531,Nenurodyta,5,Kelioniu panorama,poilsine
+Austrija,BAD GASTEIN,7,1098,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,702,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hadaba,7,511,Nenurodyta,3,Kelioniu panorama,poilsine
+Graikija,Kreta,7,554,Nenurodyta,4,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,1199,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,791,Nenurodyta,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,956,Nenurodyta,5,Kelioniu panorama,poilsine
+Ispanija,Barselona,7,633,2024-05-10,3,Kelioniu panorama,poilsine
+Albanija,Duresis,7,479,2024-06-01,3,Kelioniu panorama,poilsine
+Juodkalnija,Budva,4,548,Nenurodyta,3,Kelioniu panorama,poilsine
+Tunisas,Hammamet,7,558,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,1112,Nenurodyta,5,Kelioniu panorama,poilsine
+Ispanija,Kosta Del Solis,5,539,2024-02-15,4,Kelioniu panorama,poilsine
+Italija,CALABRIA (TYRRHENIAN COAST),7,549,Nenurodyta,4,Kelioniu panorama,poilsine
+Bulgarija,St. Vlas,7,673,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,650,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Belekas,7,1036,Nenurodyta,5,Kelioniu panorama,poilsine
+Graikija,CRETE-HERAKLION,7,965,Nenurodyta,4,Kelioniu panorama,poilsine
+Graikija,RHODES-LINDOS,7,755,Nenurodyta,5,Kelioniu panorama,poilsine
+Italija,Bergamo,7,558,Nenurodyta,3,Kelioniu panorama,poilsine
+Graikija,Kreta,7,927,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,591,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,533,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,632,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,593,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,1176,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,638,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Bodrumas,7,1334,2024-05-03,5,Kelioniu panorama,poilsine
+Graikija,CRETE-HERAKLION,7,585,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,649,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,759,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hadaba,7,448,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Alanija,5,500,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,580,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Makadi Bay,7,651,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,530,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,480,Nenurodyta,4,Kelioniu panorama,poilsine
+Graikija,RHODES-KALLITHEA/FALIRAKI,7,675,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Antalija,7,1364,Nenurodyta,5,Kelioniu panorama,poilsine
+Graikija,RHODES-IALYSOS/RODOS,7,734,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,631,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,552,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Marsa Alam,4,594,Nenurodyta,4,Kelioniu panorama,poilsine
+Tunisas,Monastyras,7,517,Nenurodyta,4,Kelioniu panorama,poilsine
+Graikija,Korfu,7,671,2024-05-13,4,Kelioniu panorama,poilsine
+Turkija,Antalija,7,902,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,3,650,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Antalija,7,621,Nenurodyta,5,Kelioniu panorama,poilsine
+Portugalija,Madeira,7,849,Nenurodyta,3,Kelioniu panorama,poilsine
+Graikija,RHODES-LINDOS,7,922,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Goynuk,7,1086,2024-04-12,5,Kelioniu panorama,poilsine
+Austrija,Zalcburgas,7,1590,Nenurodyta,4,Kelioniu panorama,poilsine
+Ispanija,Malaga,7,882,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Sidė,7,605,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,784,2024-04-12,5,Kelioniu panorama,poilsine
+Graikija,Kreta,7,699,2024-05-18,5,Kelioniu panorama,poilsine
+Graikija,Kreta,7,649,2024-05-11,4,Kelioniu panorama,poilsine
+Graikija,Kreta,7,565,2024-05-11,2,Kelioniu panorama,poilsine
+Graikija,CRETE-LASSITHI,7,588,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,522,2024-04-12,5,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,DUBAI-CITY,7,1123,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,485,Nenurodyta,5,Kelioniu panorama,poilsine
+Juodkalnija,Petrovac,7,699,Nenurodyta,4,Kelioniu panorama,poilsine
+Kipras,Pafhosas,3,519,2024-03-01,4,Kelioniu panorama,poilsine
+Ispanija,TENERIFE SUR,7,1625,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,623,Nenurodyta,4,Kelioniu panorama,poilsine
+Graikija,Kreta,7,620,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Sidė,8,1016,Nenurodyta,5,Kelioniu panorama,poilsine
+Graikija,CRETE-HERAKLION,7,721,Nenurodyta,4,Kelioniu panorama,poilsine
+Graikija,Korfu,7,799,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Antalija,5,767,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Belekas,7,855,2024-05-01,5,Kelioniu panorama,poilsine
+Turkija,Belekas,7,1175,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Antalija,7,877,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Belekas,7,1479,Nenurodyta,5,Kelioniu panorama,poilsine
+Indonezija,Denpasaras,12,1635,2024-02-05,4,Kelioniu panorama,poilsine
+Albanija,Duresis,7,599,2024-05-30,4,Kelioniu panorama,poilsine
+Graikija,CRETE-HERAKLION,7,1006,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Madinat Makadi,7,815,Nenurodyta,5,Kelioniu panorama,poilsine
+Graikija,CRETE-HERAKLION,7,789,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Goynuk,4,849,Nenurodyta,5,Kelioniu panorama,poilsine
+Graikija,RHODES-KOLYMBIA,7,620,Nenurodyta,4,Kelioniu panorama,poilsine
+Graikija,CRETE-HERAKLION,7,582,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Belekas,7,1290,Nenurodyta,5,Kelioniu panorama,poilsine
+Tenerifė,Puerto de la Krusas,7,763,Nenurodyta,3,Kelioniu panorama,poilsine
+Ispanija,TENERIFE SUR,7,1262,Nenurodyta,4,Kelioniu panorama,poilsine
+Graikija,RHODES-IALYSOS/RODOS,7,591,Nenurodyta,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,4,497,Nenurodyta,3,Kelioniu panorama,poilsine
+Turkija,Sidė,7,556,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,790,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,4,536,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,884,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,680,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,1198,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,4,601,Nenurodyta,4,Kelioniu panorama,poilsine
+Graikija,CRETE-HERAKLION,7,851,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Turkler,8,553,Nenurodyta,5,Kelioniu panorama,poilsine
+Ispanija,TENERIFE SUR,7,1090,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Sorgun,11,1040,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,863,Nenurodyta,5,Kelioniu panorama,poilsine
+Ispanija,TENERIFE SUR,7,1004,Nenurodyta,3,Kelioniu panorama,poilsine
+Egiptas,SOMA BAY,7,623,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,488,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Antalija,7,934,Nenurodyta,5,Kelioniu panorama,poilsine
+Bulgarija,Golden Sands,7,580,Nenurodyta,4,Kelioniu panorama,poilsine
+Bulgarija,Burgasas,7,508,Nenurodyta,4,Kelioniu panorama,poilsine
+Bulgarija,Golden Sands,7,652,Nenurodyta,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,1178,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Bodrumas,7,945,Nenurodyta,5,Kelioniu panorama,poilsine
+Ispanija,TENERIFE SUR,7,773,Nenurodyta,2,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,1661,Nenurodyta,5,Kelioniu panorama,poilsine
+Ispanija,Puerto De La Cruz,7,931,Nenurodyta,3,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,551,Nenurodyta,4,Kelioniu panorama,poilsine
+Jungtiniai Arabų Emyratai,Barsha,7,920,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Antalija,7,849,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Goynuk,7,1457,Nenurodyta,5,Kelioniu panorama,poilsine
+Bulgarija,Nessebar,7,765,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Antalija,3,898,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,979,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,647,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Belekas,7,1993,Nenurodyta,5,Kelioniu panorama,poilsine
+Graikija,CRETE-HERAKLION,7,717,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,565,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,606,Nenurodyta,4,Kelioniu panorama,poilsine
+Egiptas,Marsa Alam,7,604,Nenurodyta,5,Kelioniu panorama,poilsine
+Graikija,Kreta,3,816,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Bodrumas,7,898,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Belekas,7,872,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,630,Nenurodyta,5,Kelioniu panorama,poilsine
+Ispanija,Tenerifė,7,927,2024-04-19,3,Kelioniu panorama,poilsine
+Turkija,Bodrumas,7,1380,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,539,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,598,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Avsallar,7,548,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,14,1050,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,617,Nenurodyta,4,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,840,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Beldibi,7,1505,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,1060,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,702,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,14,875,Nenurodyta,3,Kelioniu panorama,poilsine
+Austrija,BAD GASTEIN,14,2518,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,492,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,419,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Sidė,14,1253,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,635,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Antalija,4,921,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,11,1183,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,831,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,MAKADY BAY,14,853,Nenurodyta,3,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,697,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,11,1110,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,5,454,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,717,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,663,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanya,7,676,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,532,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,502,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,SOMA BAY,4,517,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,3,894,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,891,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Belekas,5,890,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,673,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,521,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,11,744,Nenurodyta,5,Kelioniu panorama,poilsine
+Juodkalnija,Meljine,7,882,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Belekas,7,1694,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Lara,7,1415,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,803,2024-03-31,5,Kelioniu panorama,poilsine
+Turkija,Antalija,9,1145,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,780,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,477,Nenurodyta,3,Kelioniu panorama,poilsine
+Turkija,Belekas,7,601,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,637,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,5,602,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,11,874,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Evrenseki,7,530,Nenurodyta,5,Kelioniu panorama,poilsine
+Juodkalnija,Tivat,7,344,Nenurodyta,3,Kelioniu panorama,poilsine
+Turkija,Titreyengol,7,568,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Antalija,4,622,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,4,635,Nenurodyta,4,Kelioniu panorama,poilsine
+Egiptas,Marsa Alam,3,569,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,496,Nenurodyta,4,Kelioniu panorama,poilsine
+Juodkalnija,Bijela,7,657,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Antalija,7,805,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Antalija,7,474,Nenurodyta,4,Kelioniu panorama,poilsine
+Tunisas,Monastyras,7,517,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,683,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Manavgat,7,973,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,465,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,541,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,645,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,672,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,625,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Belekas,7,2674,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,8,533,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Makadi Bay,7,509,Nenurodyta,3,Kelioniu panorama,poilsine
+Italija,Bergamo,7,694,Nenurodyta,2,Kelioniu panorama,poilsine
+Austrija,BAD GASTEIN,7,600,Nenurodyta,3,Kelioniu panorama,poilsine
+Austrija,BAD GASTEIN,7,754,Nenurodyta,1,Kelioniu panorama,poilsine
+Turkija,Sidė,4,548,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,712,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,649,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Makadi Bay,7,671,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Beldibi,7,475,Nenurodyta,4,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,546,Nenurodyta,4,Kelioniu panorama,poilsine
+Italija,Bergamo,7,620,Nenurodyta,3,Kelioniu panorama,poilsine
+Turkija,Alanija,11,949,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,443,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,839,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,615,Nenurodyta,5,Kelioniu panorama,poilsine
+Tunisas,Hammamet,7,489,Nenurodyta,4,Kelioniu panorama,poilsine
+Juodkalnija,Budva,7,593,Nenurodyta,3,Kelioniu panorama,poilsine
+Turkija,Okurcalar,7,492,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,506,Nenurodyta,4,Kelioniu panorama,poilsine
+Kipras,Agia Napa,7,749,2024-04-06,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,525,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Antalija,7,859,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,5,764,2024-03-14,4,Kelioniu panorama,poilsine
+Kipras,Protare,7,784,2024-05-11,4,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,732,Nenurodyta,5,Kelioniu panorama,poilsine
+Graikija,CRETE-HERAKLION,7,775,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,512,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,528,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,3,765,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,3,496,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,490,Nenurodyta,4,Kelioniu panorama,poilsine
+Juodkalnija,Becici,7,569,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Belekas,7,556,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,520,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Belekas,11,1193,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,626,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,7,713,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Belekas,7,1041,2024-10-22,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,685,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Belekas,7,1262,2024-04-06,5,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,566,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanya,7,513,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,537,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,4,710,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Naama bay,7,546,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,706,2024-04-05,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,658,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,8,688,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Belekas,7,631,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Turkler,7,615,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,913,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Šarm El Šeichas,7,1083,Nenurodyta,5,Kelioniu panorama,poilsine
+Juodkalnija,Budva,7,692,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,582,Nenurodyta,5,Kelioniu panorama,poilsine
+Graikija,CRETE-HERAKLION,7,1026,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,527,Nenurodyta,4,Kelioniu panorama,poilsine
+Graikija,CRETE-HERAKLION,4,462,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,692,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,710,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Colakli,7,543,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Antalija,7,768,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Konakli,7,610,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,11,882,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Antalija,7,636,Nenurodyta,5,Kelioniu panorama,poilsine
+Mauricijus,Grand Bė,10,1729,2024-02-18,3,Kelioniu panorama,poilsine
+Turkija,Kemeras,7,476,Nenurodyta,5,Kelioniu panorama,poilsine
+Graikija,CRETE-RETHYMNO,7,567,Nenurodyta,4,Kelioniu panorama,poilsine
+Graikija,Kreta,7,563,Nenurodyta,4,Kelioniu panorama,poilsine
+Graikija,CRETE-RETHYMNO,7,526,Nenurodyta,3,Kelioniu panorama,poilsine
+Egiptas,SOMA BAY,4,542,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Belekas,4,667,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Sidė,4,540,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,577,Nenurodyta,4,Kelioniu panorama,poilsine
+Graikija,CRETE-HERAKLION,7,528,Nenurodyta,3,Kelioniu panorama,poilsine
+Bulgarija,Golden Sands,7,Išparduota,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,Išparduota,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Alanija,7,Išparduota,Nenurodyta,5,Kelioniu panorama,poilsine
+Tunisas,Susas,7,Išparduota,Nenurodyta,5,Kelioniu panorama,poilsine
+Graikija,Kreta,7,Išparduota,Nenurodyta,5,Kelioniu panorama,poilsine
+Graikija,Rodas,7,Išparduota,Nenurodyta,5,Kelioniu panorama,poilsine
+Graikija,Peloponesas,7,Išparduota,Nenurodyta,5,Kelioniu panorama,poilsine
+Juodkalnija,Budva,7,Išparduota,Nenurodyta,4,Kelioniu panorama,poilsine
+Jungtinės Amerikos Valstijos,Niujorkas,7,Išparduota,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Sidė,7,Išparduota,Nenurodyta,5,Kelioniu panorama,poilsine
+Graikija,CRETE-HERAKLION,7,Išparduota,Nenurodyta,5,Kelioniu panorama,poilsine
+Meksika,Kankunas,7,Išparduota,Nenurodyta,3,Kelioniu panorama,poilsine
+Madeira,São Vicente,7,Išparduota,Nenurodyta,4,Kelioniu panorama,poilsine
+Tenerifė,Plaja de las Amerikas,7,Išparduota,Nenurodyta,4,Kelioniu panorama,poilsine
+Šri Lanka,.,7,Išparduota,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,Išparduota,Nenurodyta,5,Kelioniu panorama,poilsine
+Egiptas,Hurgada,7,Išparduota,Nenurodyta,5,Kelioniu panorama,poilsine
+Šri Lanka,.,7,Išparduota,Nenurodyta,2,Kelioniu panorama,poilsine
+Turkija,Antalija,7,Išparduota,Nenurodyta,5,Kelioniu panorama,poilsine
+Turkija,Belekas,7,Išparduota,Nenurodyta,5,Kelioniu panorama,poilsine
+Jordanija,Aqaba,7,Išparduota,Nenurodyta,5,Kelioniu panorama,poilsine
+Graikija,RHODES-KALLITHEA/FALIRAKI,7,Išparduota,Nenurodyta,4,Kelioniu panorama,poilsine
+Turkija,Alanija,7,Išparduota,Nenurodyta,5,Kelioniu panorama,poilsine
