@@ -153,7 +153,11 @@ for i in range(1, 3):
         salis = product.find('div', class_='city').text.strip()
         regionas = product.find('div', class_='country').text.strip()
         trukme = product.find('div', class_='nights').text.strip().split(" ", 1)[0]
-        kaina = product.find('div', class_='price').text.strip().replace('nuo\n','').split(" €")[0]
+        kainatikrinti = product.find('div', class_='price').text.strip().replace('nuo\n','').split(" €")
+        if kainatikrinti[1] == '':
+            kaina=kainatikrinti[0]
+        else:
+            kaina=kainatikrinti[1]
         reitingas_count = product.find('div', class_='stars')
         reitingas = str(reitingas_count).replace('<div class="stars stars-','').replace('"></div>','')
         data = product.find('div', class_='date').text.strip()[0:10]
@@ -220,7 +224,11 @@ for i in range(1, 21):
         salis = product.find('div', class_='city').text.strip()
         regionas = product.find('div', class_='country').text.strip()
         trukme = product.find('div', class_='nights').text.strip().split(" ", 1)[0]
-        kaina = product.find('div', class_='price').text.strip().replace('nuo\n','').split(" €")[0]
+        kainatikrinti = product.find('div', class_='price').text.strip().replace('nuo\n','').split(" €")
+        if kainatikrinti[1] == '':
+            kaina=kainatikrinti[0]
+        else:
+            kaina=kainatikrinti[1]
         reitingas_count = product.find('div', class_='stars')
         reitingas = str(reitingas_count).replace('<div class="stars stars-', '').replace('"></div>', '')
         data = product.find('div', class_='date').text.strip()[0:10]
