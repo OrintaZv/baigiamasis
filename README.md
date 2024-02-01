@@ -68,4 +68,4 @@ Taip pat pažymima, kad populiariausių kelionių kainų vidurkis prasideda nuo 
 Nagrinėjant brangiausių kelionių pasiūlymus galima pastebėti tendencijas, kad brangiausių kelionių kryptys dažniausiai būna egzotinės kelionės.
 Analizė rengta 2024m sausio mėnesio pabaigoje, todėl iš agentūrų pateikiamų pasiūlymų galima daryti išvadą, kad daugiausiai pasiūlymų yra artimiausiu metu, t.y. vasario mėnesiui. Taip pat iš grafiko pateikiamos informacijos galime teigti, kad vasaros sezonui yra siūloma mažiau pasiūlymų. Tam turi įtakos sezoniškumas ir tinkamas klimatas atostogoms Lietuvoje.
 
-Pažymima, kad Baltictours kelionių agentūra turi didesnių kelionių pasiūlymų spektrą. Tačiau egzotinių kelionių spektrą gali pasiūlyti Kelionių panorama.
+Pažymima, kad Kelionių panorama siūlo didesnį kelionių pasiūlymų spektrą (588), Baltictours (532) Į šiuos skaičius yra įtrauktos ir jau parduotos kelionės. Tačiau didesnį egzotinių kelionių ir pažintinių kelionių spektrą gali pasiūlyti Baltictours. Kelionių panorama siūlo didesnį poilsinių kelionių paketą.
