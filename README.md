@@ -31,7 +31,8 @@ Duomenis pasiėmėme iš internetinių puslapių filtruojant keliones pagal keli
 
 **Panaudotos bibliotekos:** Pandas, MatplotLib, SeaBorn, Statistics
 1.	Pirmiausia sugrupavome abiejų agentūrų keliones pagal daugiausia pasiūlymų (populiariausios kelionės). Siekiant estetiškai atvaizduoti duomenis, grafike pateikėme  top 10 populiariausių kelionių krypčių ir jų kainos vidurkį.
- ![Vidutinės kelionės kainos pagal TOP 10 šalių](https://github.com/OrintaZv/baigiamasis/assets/157809580/fa361166-00ad-43aa-a19f-3eb0eb44ae70)
+ ![image](https://github.com/OrintaZv/baigiamasis/assets/157809580/644c429b-8998-4010-b83d-585a89314016)
+
 
 
 2.Suradome pačias brangiausias agentūrų siūlomas keliones top10 .
