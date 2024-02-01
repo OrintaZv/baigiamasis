@@ -23,6 +23,7 @@ Tai kelionių agentūros siūlančios įvairaus pobūdžio keliones, kelionių t
 **DATABASE.PY**
 
 **Panaudotos bibliotekos:** requests, pandas, BeautifulSoup
+
 Duomenis pasiėmėme iš internetinių puslapių filtruojant keliones pagal kelionių tipus. Pažymima, kad tarp duomenų pasitaikė atvejų, kai kelionės pasiūlymų yra matomos ir tos kelionės, kurios jau yra su žyma “išparduota” arba kelionės data “Nenurodoma". Pažymime, kad šitos kelionės yra įtrauktos į analizę siekiant įvertinti kelionių agentūrų siūlomas populiariausias kryptis. Tačiau tokių kelionių negalėjome analizuoti pagal keliones datas, kadangi tokia informacijas apie jas nebuvo teikiama.
 
 
