@@ -14,7 +14,7 @@ Darbas atliktas Python kalba.
 
 
 Atlikti išsamią analizę pasirinkome dvi skirtingas kelionių agentūras, kurios pateikia panašius tyrimui naudojamus duomenis [Baltictours](https://www.baltictours.lt/) ir [Kelioniu panorama](https://www.kelioniupanorama.lt/).
-Tai kelionių agentūros siūlančios įvairaus pobūdžio keliones, kelionių tipus ir būdus. Siekiant suvienodinti analizei reikiamą informaciją, pasirinkome lyginti tris siūlomus kelionių tipus: poilsines, pažintines bei egzotines keliones.
+Tai kelionių agentūros siūlančios įvairaus pobūdžio keliones, pagal kelionių tipus ir keliavimo būdus. Siekiant suvienodinti analizei reikiamą informaciją, pasirinkome lyginti tris siūlomus kelionių tipus: poilsines, pažintines bei egzotines keliones.
 
 
 #  **PROJEKTO SEKA**
