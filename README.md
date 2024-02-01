@@ -38,7 +38,8 @@ Duomenis pasiėmėme iš internetinių puslapių filtruojant keliones pagal keli
 
 
 3.Sugrupavome duomenis, kokių kelionių procentaliai siūlo agentūros pagal kelionės reitingą.
- ![image](https://github.com/OrintaZv/baigiamasis/assets/157809580/d9c6fd87-48b1-42c1-a0b3-739591f79ca2)
+![image](https://github.com/OrintaZv/baigiamasis/assets/157809580/b4a72243-a312-471f-860c-a93f6c53dac0)
+
 
 
 4.Grafike pateikiama informacija apie siūlomas keliones pagal kelionių tipus kiekvienoje agentūroje.
