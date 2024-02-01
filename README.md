@@ -8,7 +8,7 @@ Baigiamasis projektas Vilnius Coding School duomenų analitikos ir python progra
 
 **Projekto tikslas:** Apžvelgti internetiniuose puslapiuose siūlomų kelionių agentūrų pasiūlymus
 
-**Pasirinktos duomenų bazės apimtis:** 1120 eilučių, 8 stulpelių.
+**Pasirinktos duomenų bazės apimtis:** 1120 eilučių, 8 stulpeliai.
 
 Darbas atliktas Python kalba.
 
