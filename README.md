@@ -61,7 +61,7 @@ Duomenis pasiėmėme iš internetinių puslapių filtruojant keliones pagal keli
 #  **ANALIZĖS IŠVADOS**
 
 
-Atlikus Kelionių Svetainių Kainų Palyginimo analizę padarėme išvadą, kad populiariausios kelionės yra poilsinės kelionės. Kelionių agentūros tokių kelionių siūlo daugiausiai. Taip pat galima daryti išvadą, dažniausiai siūlomos kelionės yra 4 ar 5 žvaigždučių įvertinimu. Analizuotose agentūrose šios kelionės sudaro 88 % visų siūlomų kelionių.
+Atlikus Kelionių Svetainių Kainų Palyginimo analizę padarėme išvadą, kad populiariausios kelionės yra poilsinės kelionės. Kelionių agentūros tokių kelionių siūlo daugiausiai. Taip pat galima daryti išvadą, dažniausiai siūlomos kelionės yra 4 ar 5 žvaigždučių įvertinimu. Analizuotose agentūrose šios kelionės sudaro 87 % visų siūlomų kelionių.
 
 Taip pat pažymima, kad populiariausių kelionių kainų vidurkis prasideda nuo 644,27 Eur ir siekia 1826,33 Eur.
 
