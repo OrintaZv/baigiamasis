@@ -40,7 +40,8 @@ Duomenis pasiėmėme iš internetinių puslapių filtruojant keliones pagal keli
 
 
 3.Sugrupavome duomenis, kokių kelionių procentaliai siūlo agentūros pagal kelionės reitingą.
-![image](https://github.com/OrintaZv/baigiamasis/assets/157809580/b4a72243-a312-471f-860c-a93f6c53dac0)
+![Kelionių reitingų pasiskirstymas procentaliai](https://github.com/OrintaZv/baigiamasis/assets/157809580/31fbd5f6-0ab5-467f-a9f2-520601334711)
+
 
 
 
