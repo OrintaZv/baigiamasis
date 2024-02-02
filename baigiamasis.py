@@ -141,36 +141,41 @@ dfbendraspanorama = pd.concat([dfkelioniupanorama_pazintine, dfkelioniupanorama_
 dfbendraspanorama.to_csv('Bendraspanorama.csv', index=False)
 
 baltictour_egzotine=[]
-target = 'https://www.baltictours.lt/kelioniu-kryptys/egzotines-keliones/'
-response = requests.get(target)
-soup = BeautifulSoup(response.content,'html.parser')
-# print(response.status_code)
+for i in range(1, 3):
+    target = f"https://www.baltictours.lt/kelioniu-kryptys/egzotines-keliones/?page={i}"
+    response = requests.get(target)
+    soup = BeautifulSoup(response.content,'html.parser')
+    # print(response.status_code)
 
 
-products = soup.find_all('div', class_='s2l-el special__offer')
-for product in products:
-    salis = product.find('div', class_='city').text.strip()
-    regionas = product.find('div', class_='country').text.strip()
-    trukme = product.find('div', class_='nights').text.strip().split(" ", 1)[0]
-    kaina = product.find('div', class_='price').text.strip().replace('nuo\n','').split(" €")[0]
-    reitingas_count = product.find('div', class_='stars')
-    reitingas = str(reitingas_count).replace('<div class="stars stars-','').replace('"></div>','')
-    data = product.find('div', class_='date').text.strip()[0:10]
-    agentura = 'Baltictours'
+    products = soup.find_all('div', class_='s2l-el special__offer')
+    for product in products:
+        salis = product.find('div', class_='city').text.strip()
+        regionas = product.find('div', class_='country').text.strip()
+        trukme = product.find('div', class_='nights').text.strip().split(" ", 1)[0]
+        kainatikrinti = product.find('div', class_='price').text.strip().replace('nuo\n','').split(" €")
+        if kainatikrinti[1] == '':
+            kaina=kainatikrinti[0]
+        else:
+            kaina=kainatikrinti[1]
+        reitingas_count = product.find('div', class_='stars')
+        reitingas = str(reitingas_count).replace('<div class="stars stars-','').replace('"></div>','')
+        data = product.find('div', class_='date').text.strip()[0:10]
+        agentura = 'Baltictours'
 
 
 
-    baltictour_egzotine.append({
-        'Salis' : salis,
-        'Regionas' : regionas,
-        'Trukme' : trukme,
-        'Kaina' : kaina,
-        'Data' : data,
-        # 'Kaina be Akcijos': kainabeakcijos,
-        'Reitingas' : reitingas,
-        'agentura' : agentura,
-        'Keliones tipas': "egzotine"
- })
+        baltictour_egzotine.append({
+            'Salis' : salis,
+            'Regionas' : regionas,
+            'Trukme' : trukme,
+            'Kaina' : kaina,
+            'Data' : data,
+            # 'Kaina be Akcijos': kainabeakcijos,
+            'Reitingas' : reitingas,
+            'agentura' : agentura,
+            'Keliones tipas': "egzotine"
+     })
 
 dfbaltictour_egzotine = pd.DataFrame(baltictour_egzotine)
 dfbaltictour_egzotine.to_csv('baltictour.csv', index=False)
@@ -209,31 +214,36 @@ dfbaltictour_pazintine = pd.DataFrame(baltictour_pazintine)
 dfbaltictour_pazintine.to_csv('baltictour_pazintine.csv', index=False)
 
 baltictour_poilsine=[]
-target = 'https://www.baltictours.lt/kelioniu-kryptys/poilsines-keliones/?min-price=262&max-price=600'
-response = requests.get(target)
-soup = BeautifulSoup(response.content,'html.parser')
+for i in range(1, 21):
+    target = f"https://www.baltictours.lt/kelioniu-kryptys/poilsines-keliones/?page={i}"
+    response = requests.get(target)
+    soup = BeautifulSoup(response.content,'html.parser')
 
-products = soup.find_all('div', class_='s2l-el special__offer')
-for product in products:
-    salis = product.find('div', class_='city').text.strip()
-    regionas = product.find('div', class_='country').text.strip()
-    trukme = product.find('div', class_='nights').text.strip().split(" ", 1)[0]
-    kaina = product.find('div', class_='price').text.strip().replace('nuo\n','').split(" €")[0]
-    reitingas_count = product.find('div', class_='stars')
-    reitingas = str(reitingas_count).replace('<div class="stars stars-', '').replace('"></div>', '')
-    data = product.find('div', class_='date').text.strip()[0:10]
-    agentura = 'Baltictours'
+    products = soup.find_all('div', class_='s2l-el special__offer')
+    for product in products:
+        salis = product.find('div', class_='city').text.strip()
+        regionas = product.find('div', class_='country').text.strip()
+        trukme = product.find('div', class_='nights').text.strip().split(" ", 1)[0]
+        kainatikrinti = product.find('div', class_='price').text.strip().replace('nuo\n','').split(" €")
+        if kainatikrinti[1] == '':
+            kaina=kainatikrinti[0]
+        else:
+            kaina=kainatikrinti[1]
+        reitingas_count = product.find('div', class_='stars')
+        reitingas = str(reitingas_count).replace('<div class="stars stars-', '').replace('"></div>', '')
+        data = product.find('div', class_='date').text.strip()[0:10]
+        agentura = 'Baltictours'
 
-    baltictour_poilsine.append({
-        'Salis' : salis,
-        'Regionas' : regionas,
-        'Trukme' : trukme,
-        'Kaina' : kaina,
-        'Data' : data,
-        'Reitingas' : reitingas,
-        'agentura' : agentura,
-        'Keliones tipas' : "poilsine"
- })
+        baltictour_poilsine.append({
+            'Salis' : salis,
+            'Regionas' : regionas,
+            'Trukme' : trukme,
+            'Kaina' : kaina,
+            'Data' : data,
+            'Reitingas' : reitingas,
+            'agentura' : agentura,
+            'Keliones tipas' : "poilsine"
+     })
 
 dfbaltictour_poilsine = pd.DataFrame(baltictour_poilsine)
 dfbaltictour_poilsine.to_csv('baltictour_poilsine.csv', index=False)
@@ -244,8 +254,4 @@ dfbendrasbaltic.to_csv('Bendrasbaltic.csv', index=False)
 
 dfbendras = pd.concat([dfbendrasbaltic, dfbendraspanorama], axis=0)
 dfbendras.to_csv('Bendraskeloniu.csv', index=False)
-#print(dfbendras)
-
-
-
-
+print(dfbendras)
