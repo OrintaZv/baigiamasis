@@ -248,12 +248,4 @@ dfbendras.to_csv('Bendraskeloniu.csv', index=False)
 
 
 
-import seaborn as sns
-import matplotlib.pyplot as plt
-import pandas as pd
 
-Vid.kaina pagal salis
-plt.figure(figsize=(12, 6))
-sns.barplot(x='Salis', y='Kaina', data=baltic_df_pasirinktos_salys)
-plt.title('Vidutine kaina pagal salis (Bendraskelioniu)')
-plt.show()
