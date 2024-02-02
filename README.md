@@ -17,7 +17,7 @@ Atlikti išsamią analizę pasirinkome dvi skirtingas kelionių agentūras, kuri
 Tai kelionių agentūros siūlančios įvairaus pobūdžio keliones, pagal kelionių tipus ir keliavimo būdus. Siekiant suvienodinti analizei reikiamą informaciją, pasirinkome lyginti tris siūlomus kelionių tipus: poilsines, pažintines bei egzotines keliones.
 
 
-#  **PROJEKTO SEKA**
+##  **PROJEKTO SEKA**
 
 
 **DATABASE.PY**
@@ -58,7 +58,7 @@ Duomenis pasiėmėme iš internetinių puslapių filtruojant keliones pagal keli
 
 
 
-#  **ANALIZĖS IŠVADOS**
+##  **ANALIZĖS IŠVADOS**
 
 
 Atlikus Kelionių Svetainių Kainų Palyginimo analizę padarėme išvadą, kad populiariausios kelionės yra poilsinės kelionės. Kelionių agentūros tokių kelionių siūlo daugiausiai. Taip pat galima daryti išvadą, dažniausiai siūlomos kelionės yra 4 ar 5 žvaigždučių įvertinimu. Analizuotose agentūrose šios kelionės sudaro 87 % visų siūlomų kelionių.
